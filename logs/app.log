@@ -1,0 +1,791 @@
+{"timestamp":"2025-04-11T06:33:09.357Z","level":"info","message":"Payment processed","userId":"user737","service":"payment-service"}
+{"timestamp":"2025-04-11T06:33:10.370Z","level":"error","message":"User signed in successfully","userId":"user990","service":"cart-service"}
+{"timestamp":"2025-04-11T06:33:11.379Z","level":"info","message":"Payment processed","userId":"user441","service":"auth-service"}
+{"timestamp":"2025-04-11T06:33:12.390Z","level":"info","message":"Order placed","userId":"user898","service":"auth-service"}
+{"timestamp":"2025-04-11T06:33:13.401Z","level":"info","message":"Order placed","userId":"user774","service":"payment-service"}
+{"timestamp":"2025-04-11T06:33:14.406Z","level":"info","message":"Payment failed","userId":"user951","service":"cart-service"}
+{"timestamp":"2025-04-11T06:33:15.416Z","level":"error","message":"Payment failed","userId":"user528","service":"payment-service"}
+{"timestamp":"2025-04-11T06:33:16.427Z","level":"info","message":"Payment processed","userId":"user540","service":"payment-service"}
+{"timestamp":"2025-04-11T06:33:17.430Z","level":"info","message":"User signed in successfully","userId":"user91","service":"search-service"}
+{"timestamp":"2025-04-11T06:33:18.439Z","level":"info","message":"Payment processed","userId":"user282","service":"cart-service"}
+{"timestamp":"2025-04-11T06:33:19.444Z","level":"error","message":"Product added to cart","userId":"user127","service":"auth-service"}
+{"timestamp":"2025-04-11T06:33:20.445Z","level":"info","message":"Search performed","userId":"user750","service":"payment-service"}
+{"timestamp":"2025-04-11T06:33:21.445Z","level":"info","message":"Payment processed","userId":"user565","service":"payment-service"}
+{"timestamp":"2025-04-11T06:33:22.452Z","level":"info","message":"Payment processed","userId":"user490","service":"payment-service"}
+{"timestamp":"2025-04-11T06:33:23.453Z","level":"info","message":"Payment failed","userId":"user354","service":"payment-service"}
+{"timestamp":"2025-04-11T06:33:24.453Z","level":"info","message":"Search performed","userId":"user825","service":"search-service"}
+{"timestamp":"2025-04-11T06:33:25.463Z","level":"info","message":"Product added to cart","userId":"user662","service":"auth-service"}
+{"timestamp":"2025-04-11T06:33:26.473Z","level":"info","message":"Payment processed","userId":"user779","service":"auth-service"}
+{"timestamp":"2025-04-11T06:33:27.479Z","level":"info","message":"User signed in successfully","userId":"user450","service":"cart-service"}
+{"timestamp":"2025-04-11T06:33:28.480Z","level":"info","message":"User signed in successfully","userId":"user494","service":"cart-service"}
+{"timestamp":"2025-04-11T06:33:29.479Z","level":"info","message":"Search performed","userId":"user508","service":"cart-service"}
+{"timestamp":"2025-04-11T06:33:30.486Z","level":"info","message":"Search performed","userId":"user674","service":"search-service"}
+{"timestamp":"2025-04-11T06:33:31.494Z","level":"error","message":"Payment failed","userId":"user378","service":"payment-service"}
+{"timestamp":"2025-04-11T06:33:32.509Z","level":"info","message":"Search performed","userId":"user215","service":"payment-service"}
+{"timestamp":"2025-04-11T06:33:33.515Z","level":"info","message":"Order placed","userId":"user62","service":"payment-service"}
+{"timestamp":"2025-04-11T06:33:34.519Z","level":"error","message":"Search performed","userId":"user943","service":"auth-service"}
+{"timestamp":"2025-04-11T06:33:35.520Z","level":"info","message":"Order placed","userId":"user719","service":"search-service"}
+{"timestamp":"2025-04-11T06:33:36.527Z","level":"info","message":"Payment failed","userId":"user97","service":"auth-service"}
+{"timestamp":"2025-04-11T06:33:37.533Z","level":"error","message":"User signed in successfully","userId":"user411","service":"search-service"}
+{"timestamp":"2025-04-11T06:33:38.546Z","level":"error","message":"User signed in successfully","userId":"user957","service":"payment-service"}
+{"timestamp":"2025-04-11T06:33:39.548Z","level":"error","message":"Order placed","userId":"user735","service":"search-service"}
+{"timestamp":"2025-04-11T06:33:40.553Z","level":"error","message":"Payment processed","userId":"user880","service":"auth-service"}
+{"timestamp":"2025-04-11T06:33:41.560Z","level":"info","message":"Product added to cart","userId":"user682","service":"search-service"}
+{"timestamp":"2025-04-11T06:33:42.561Z","level":"info","message":"Order placed","userId":"user232","service":"payment-service"}
+{"timestamp":"2025-04-11T06:33:43.567Z","level":"info","message":"Payment failed","userId":"user991","service":"auth-service"}
+{"timestamp":"2025-04-11T06:33:44.583Z","level":"error","message":"Product added to cart","userId":"user73","service":"auth-service"}
+{"timestamp":"2025-04-11T06:33:45.587Z","level":"info","message":"Product added to cart","userId":"user91","service":"cart-service"}
+{"timestamp":"2025-04-11T06:33:46.593Z","level":"error","message":"Order placed","userId":"user338","service":"auth-service"}
+{"timestamp":"2025-04-11T06:33:47.603Z","level":"info","message":"Product added to cart","userId":"user193","service":"search-service"}
+{"timestamp":"2025-04-11T06:33:48.608Z","level":"info","message":"Order placed","userId":"user419","service":"cart-service"}
+{"timestamp":"2025-04-11T06:33:49.608Z","level":"info","message":"Search performed","userId":"user506","service":"search-service"}
+{"timestamp":"2025-04-11T06:33:50.623Z","level":"info","message":"Payment processed","userId":"user813","service":"search-service"}
+{"timestamp":"2025-04-11T06:33:51.634Z","level":"error","message":"Order placed","userId":"user809","service":"auth-service"}
+{"timestamp":"2025-04-11T06:33:52.641Z","level":"error","message":"Product added to cart","userId":"user663","service":"search-service"}
+{"timestamp":"2025-04-11T06:33:53.641Z","level":"error","message":"Order placed","userId":"user199","service":"payment-service"}
+{"timestamp":"2025-04-11T06:33:54.644Z","level":"info","message":"Product added to cart","userId":"user266","service":"search-service"}
+{"timestamp":"2025-04-11T06:33:55.650Z","level":"error","message":"Product added to cart","userId":"user230","service":"auth-service"}
+{"timestamp":"2025-04-11T06:33:56.656Z","level":"info","message":"Search performed","userId":"user338","service":"payment-service"}
+{"timestamp":"2025-04-11T06:33:57.660Z","level":"info","message":"User signed in successfully","userId":"user930","service":"auth-service"}
+{"timestamp":"2025-04-11T06:33:58.663Z","level":"info","message":"Payment processed","userId":"user431","service":"auth-service"}
+{"timestamp":"2025-04-11T06:33:59.667Z","level":"info","message":"User signed in successfully","userId":"user164","service":"search-service"}
+{"timestamp":"2025-04-11T06:34:00.682Z","level":"info","message":"Order placed","userId":"user525","service":"search-service"}
+{"timestamp":"2025-04-11T06:34:01.689Z","level":"info","message":"Search performed","userId":"user584","service":"payment-service"}
+{"timestamp":"2025-04-11T06:34:02.696Z","level":"info","message":"Search performed","userId":"user976","service":"payment-service"}
+{"timestamp":"2025-04-11T06:34:03.700Z","level":"info","message":"Product added to cart","userId":"user965","service":"auth-service"}
+{"timestamp":"2025-04-11T06:34:04.713Z","level":"info","message":"Payment failed","userId":"user499","service":"payment-service"}
+{"timestamp":"2025-04-11T06:34:05.714Z","level":"info","message":"Payment failed","userId":"user270","service":"payment-service"}
+{"timestamp":"2025-04-11T06:34:06.726Z","level":"info","message":"Product added to cart","userId":"user27","service":"cart-service"}
+{"timestamp":"2025-04-11T06:34:07.735Z","level":"info","message":"Product added to cart","userId":"user453","service":"cart-service"}
+{"timestamp":"2025-04-11T06:34:08.736Z","level":"info","message":"Payment processed","userId":"user187","service":"search-service"}
+{"timestamp":"2025-04-11T06:34:09.750Z","level":"info","message":"User signed in successfully","userId":"user29","service":"cart-service"}
+{"timestamp":"2025-04-11T06:34:10.750Z","level":"info","message":"Product added to cart","userId":"user285","service":"search-service"}
+{"timestamp":"2025-04-11T06:34:11.755Z","level":"info","message":"User signed in successfully","userId":"user612","service":"auth-service"}
+{"timestamp":"2025-04-11T06:34:12.755Z","level":"info","message":"Product added to cart","userId":"user25","service":"cart-service"}
+{"timestamp":"2025-04-11T06:34:13.763Z","level":"info","message":"User signed in successfully","userId":"user650","service":"search-service"}
+{"timestamp":"2025-04-11T06:34:14.763Z","level":"info","message":"Search performed","userId":"user834","service":"payment-service"}
+{"timestamp":"2025-04-11T06:34:15.777Z","level":"info","message":"Search performed","userId":"user863","service":"cart-service"}
+{"timestamp":"2025-04-11T06:34:16.790Z","level":"info","message":"Order placed","userId":"user85","service":"auth-service"}
+{"timestamp":"2025-04-11T06:34:17.790Z","level":"info","message":"Order placed","userId":"user908","service":"search-service"}
+{"timestamp":"2025-04-11T06:34:18.796Z","level":"error","message":"Search performed","userId":"user263","service":"payment-service"}
+{"timestamp":"2025-04-11T07:11:39.914Z","level":"info","message":"Search performed","userId":"user713","service":"auth-service"}
+{"timestamp":"2025-04-11T07:11:40.916Z","level":"info","message":"Payment failed","userId":"user323","service":"cart-service"}
+{"timestamp":"2025-04-11T07:11:41.917Z","level":"info","message":"Payment processed","userId":"user100","service":"auth-service"}
+{"timestamp":"2025-04-11T07:11:42.921Z","level":"error","message":"Order placed","userId":"user281","service":"search-service"}
+{"timestamp":"2025-04-11T07:11:43.927Z","level":"info","message":"Search performed","userId":"user285","service":"auth-service"}
+{"timestamp":"2025-04-11T07:11:44.931Z","level":"info","message":"Search performed","userId":"user619","service":"cart-service"}
+{"timestamp":"2025-04-11T07:11:45.938Z","level":"info","message":"User signed in successfully","userId":"user91","service":"auth-service"}
+{"timestamp":"2025-04-11T07:11:46.940Z","level":"info","message":"User signed in successfully","userId":"user164","service":"cart-service"}
+{"timestamp":"2025-04-11T07:11:47.947Z","level":"info","message":"Payment failed","userId":"user609","service":"cart-service"}
+{"timestamp":"2025-04-11T07:11:48.948Z","level":"info","message":"Search performed","userId":"user503","service":"payment-service"}
+{"timestamp":"2025-04-11T07:11:49.950Z","level":"info","message":"User signed in successfully","userId":"user142","service":"auth-service"}
+{"timestamp":"2025-04-11T07:11:50.959Z","level":"info","message":"Payment processed","userId":"user64","service":"payment-service"}
+{"timestamp":"2025-04-11T07:11:51.961Z","level":"info","message":"Payment failed","userId":"user946","service":"auth-service"}
+{"timestamp":"2025-04-11T07:11:52.970Z","level":"info","message":"Payment processed","userId":"user570","service":"auth-service"}
+{"timestamp":"2025-04-11T07:11:53.972Z","level":"info","message":"Product added to cart","userId":"user974","service":"search-service"}
+{"timestamp":"2025-04-11T07:11:54.973Z","level":"info","message":"Search performed","userId":"user935","service":"payment-service"}
+{"timestamp":"2025-04-11T07:11:55.974Z","level":"info","message":"Payment processed","userId":"user698","service":"cart-service"}
+{"timestamp":"2025-04-11T07:11:56.979Z","level":"error","message":"Product added to cart","userId":"user209","service":"cart-service"}
+{"timestamp":"2025-04-11T07:11:57.985Z","level":"info","message":"Product added to cart","userId":"user560","service":"payment-service"}
+{"timestamp":"2025-04-11T07:11:58.986Z","level":"info","message":"Product added to cart","userId":"user791","service":"payment-service"}
+{"timestamp":"2025-04-11T07:12:00.011Z","level":"error","message":"Payment failed","userId":"user514","service":"payment-service"}
+{"timestamp":"2025-04-11T07:12:01.012Z","level":"info","message":"Search performed","userId":"user510","service":"cart-service"}
+{"timestamp":"2025-04-11T07:12:02.012Z","level":"info","message":"Payment failed","userId":"user677","service":"auth-service"}
+{"timestamp":"2025-04-11T07:12:03.012Z","level":"info","message":"Payment processed","userId":"user851","service":"search-service"}
+{"timestamp":"2025-04-11T07:12:04.021Z","level":"info","message":"User signed in successfully","userId":"user73","service":"payment-service"}
+{"timestamp":"2025-04-11T07:12:05.028Z","level":"info","message":"Payment failed","userId":"user111","service":"cart-service"}
+{"timestamp":"2025-04-11T07:12:06.033Z","level":"info","message":"Search performed","userId":"user228","service":"auth-service"}
+{"timestamp":"2025-04-11T07:12:07.037Z","level":"error","message":"Order placed","userId":"user5","service":"cart-service"}
+{"timestamp":"2025-04-11T07:12:08.038Z","level":"info","message":"Payment failed","userId":"user104","service":"payment-service"}
+{"timestamp":"2025-04-11T07:12:09.054Z","level":"info","message":"Payment processed","userId":"user310","service":"search-service"}
+{"timestamp":"2025-04-11T07:12:10.059Z","level":"info","message":"Payment failed","userId":"user292","service":"auth-service"}
+{"timestamp":"2025-04-11T07:12:11.060Z","level":"error","message":"Product added to cart","userId":"user789","service":"cart-service"}
+{"timestamp":"2025-04-11T07:12:12.070Z","level":"info","message":"Payment processed","userId":"user898","service":"auth-service"}
+{"timestamp":"2025-04-11T07:12:13.077Z","level":"info","message":"Search performed","userId":"user395","service":"payment-service"}
+{"timestamp":"2025-04-11T07:12:14.078Z","level":"info","message":"Search performed","userId":"user300","service":"auth-service"}
+{"timestamp":"2025-04-11T07:12:15.086Z","level":"info","message":"Order placed","userId":"user856","service":"payment-service"}
+{"timestamp":"2025-04-11T07:12:16.087Z","level":"info","message":"Product added to cart","userId":"user665","service":"payment-service"}
+{"timestamp":"2025-04-11T07:12:17.099Z","level":"error","message":"User signed in successfully","userId":"user206","service":"cart-service"}
+{"timestamp":"2025-04-11T07:12:18.101Z","level":"info","message":"Payment failed","userId":"user300","service":"search-service"}
+{"timestamp":"2025-04-11T07:12:19.102Z","level":"info","message":"User signed in successfully","userId":"user730","service":"payment-service"}
+{"timestamp":"2025-04-11T07:12:20.113Z","level":"info","message":"Product added to cart","userId":"user157","service":"search-service"}
+{"timestamp":"2025-04-11T07:12:21.121Z","level":"info","message":"Payment processed","userId":"user69","service":"search-service"}
+{"timestamp":"2025-04-11T07:12:22.124Z","level":"info","message":"User signed in successfully","userId":"user704","service":"payment-service"}
+{"timestamp":"2025-04-11T07:12:23.124Z","level":"info","message":"Payment processed","userId":"user807","service":"search-service"}
+{"timestamp":"2025-04-11T07:12:24.123Z","level":"info","message":"User signed in successfully","userId":"user30","service":"payment-service"}
+{"timestamp":"2025-04-11T07:12:25.139Z","level":"info","message":"Payment processed","userId":"user719","service":"search-service"}
+{"timestamp":"2025-04-11T07:12:26.150Z","level":"info","message":"Payment processed","userId":"user851","service":"payment-service"}
+{"timestamp":"2025-04-11T07:12:27.150Z","level":"error","message":"Order placed","userId":"user727","service":"payment-service"}
+{"timestamp":"2025-04-11T07:12:28.165Z","level":"info","message":"Product added to cart","userId":"user817","service":"search-service"}
+{"timestamp":"2025-04-11T07:12:29.180Z","level":"info","message":"Product added to cart","userId":"user248","service":"auth-service"}
+{"timestamp":"2025-04-11T07:12:30.181Z","level":"info","message":"Product added to cart","userId":"user542","service":"payment-service"}
+{"timestamp":"2025-04-11T07:12:31.190Z","level":"info","message":"Search performed","userId":"user31","service":"auth-service"}
+{"timestamp":"2025-04-11T07:12:32.197Z","level":"info","message":"Order placed","userId":"user323","service":"cart-service"}
+{"timestamp":"2025-04-11T07:12:33.205Z","level":"info","message":"Search performed","userId":"user641","service":"payment-service"}
+{"timestamp":"2025-04-11T07:12:34.216Z","level":"info","message":"Payment processed","userId":"user640","service":"cart-service"}
+{"timestamp":"2025-04-11T07:12:35.222Z","level":"info","message":"Order placed","userId":"user655","service":"payment-service"}
+{"timestamp":"2025-04-11T07:12:36.231Z","level":"info","message":"Order placed","userId":"user485","service":"search-service"}
+{"timestamp":"2025-04-11T07:12:37.246Z","level":"info","message":"Search performed","userId":"user157","service":"auth-service"}
+{"timestamp":"2025-04-11T07:12:38.251Z","level":"info","message":"Order placed","userId":"user70","service":"cart-service"}
+{"timestamp":"2025-04-11T07:12:39.259Z","level":"info","message":"Order placed","userId":"user909","service":"cart-service"}
+{"timestamp":"2025-04-11T07:12:40.264Z","level":"info","message":"Payment processed","userId":"user915","service":"auth-service"}
+{"timestamp":"2025-04-11T07:12:41.270Z","level":"info","message":"Payment failed","userId":"user131","service":"payment-service"}
+{"timestamp":"2025-04-11T07:12:42.279Z","level":"info","message":"Order placed","userId":"user256","service":"search-service"}
+{"timestamp":"2025-04-11T07:12:43.286Z","level":"info","message":"Product added to cart","userId":"user735","service":"search-service"}
+{"timestamp":"2025-04-11T07:12:44.288Z","level":"info","message":"Payment failed","userId":"user19","service":"cart-service"}
+{"timestamp":"2025-04-11T07:12:45.301Z","level":"info","message":"User signed in successfully","userId":"user173","service":"auth-service"}
+{"timestamp":"2025-04-11T07:12:46.308Z","level":"info","message":"Product added to cart","userId":"user87","service":"search-service"}
+{"timestamp":"2025-04-11T07:12:47.323Z","level":"error","message":"Order placed","userId":"user160","service":"auth-service"}
+{"timestamp":"2025-04-11T07:12:48.327Z","level":"info","message":"Search performed","userId":"user66","service":"auth-service"}
+{"timestamp":"2025-04-11T07:12:49.336Z","level":"info","message":"Order placed","userId":"user860","service":"search-service"}
+{"timestamp":"2025-04-11T07:12:50.350Z","level":"info","message":"User signed in successfully","userId":"user715","service":"payment-service"}
+{"timestamp":"2025-04-11T07:12:51.351Z","level":"info","message":"Payment failed","userId":"user531","service":"payment-service"}
+{"timestamp":"2025-04-11T07:12:52.358Z","level":"info","message":"Payment processed","userId":"user442","service":"search-service"}
+{"timestamp":"2025-04-11T07:12:53.360Z","level":"info","message":"Product added to cart","userId":"user963","service":"auth-service"}
+{"timestamp":"2025-04-11T07:12:54.370Z","level":"info","message":"Product added to cart","userId":"user709","service":"cart-service"}
+{"timestamp":"2025-04-11T07:12:55.383Z","level":"error","message":"Search performed","userId":"user853","service":"search-service"}
+{"timestamp":"2025-04-11T07:12:56.388Z","level":"info","message":"Order placed","userId":"user762","service":"auth-service"}
+{"timestamp":"2025-04-11T07:12:57.396Z","level":"info","message":"Payment processed","userId":"user147","service":"payment-service"}
+{"timestamp":"2025-04-11T07:12:58.403Z","level":"error","message":"Payment processed","userId":"user990","service":"auth-service"}
+{"timestamp":"2025-04-11T07:12:59.418Z","level":"info","message":"Payment processed","userId":"user18","service":"auth-service"}
+{"timestamp":"2025-04-11T07:13:00.424Z","level":"info","message":"Payment processed","userId":"user572","service":"search-service"}
+{"timestamp":"2025-04-11T07:13:01.434Z","level":"info","message":"Order placed","userId":"user729","service":"search-service"}
+{"timestamp":"2025-04-11T07:13:02.439Z","level":"info","message":"Payment failed","userId":"user365","service":"search-service"}
+{"timestamp":"2025-04-11T07:13:03.449Z","level":"info","message":"Payment processed","userId":"user641","service":"auth-service"}
+{"timestamp":"2025-04-11T07:13:04.461Z","level":"error","message":"Search performed","userId":"user870","service":"cart-service"}
+{"timestamp":"2025-04-11T07:13:05.461Z","level":"info","message":"Order placed","userId":"user331","service":"search-service"}
+{"timestamp":"2025-04-11T07:13:06.461Z","level":"error","message":"Search performed","userId":"user715","service":"search-service"}
+{"timestamp":"2025-04-11T07:13:07.463Z","level":"info","message":"Payment processed","userId":"user221","service":"search-service"}
+{"timestamp":"2025-04-11T07:13:08.469Z","level":"info","message":"Order placed","userId":"user366","service":"search-service"}
+{"timestamp":"2025-04-11T07:13:09.473Z","level":"error","message":"Payment processed","userId":"user599","service":"cart-service"}
+{"timestamp":"2025-04-11T07:13:10.479Z","level":"info","message":"Product added to cart","userId":"user729","service":"search-service"}
+{"timestamp":"2025-04-11T07:13:11.493Z","level":"error","message":"Payment processed","userId":"user197","service":"search-service"}
+{"timestamp":"2025-04-11T07:13:12.500Z","level":"info","message":"Payment processed","userId":"user108","service":"auth-service"}
+{"timestamp":"2025-04-11T07:13:13.501Z","level":"info","message":"Product added to cart","userId":"user691","service":"search-service"}
+{"timestamp":"2025-04-11T07:13:14.508Z","level":"info","message":"Search performed","userId":"user769","service":"auth-service"}
+{"timestamp":"2025-04-11T07:13:15.510Z","level":"info","message":"Payment failed","userId":"user204","service":"search-service"}
+{"timestamp":"2025-04-11T07:13:16.510Z","level":"error","message":"Order placed","userId":"user181","service":"payment-service"}
+{"timestamp":"2025-04-11T07:13:17.523Z","level":"error","message":"Product added to cart","userId":"user820","service":"payment-service"}
+{"timestamp":"2025-04-11T07:13:18.526Z","level":"info","message":"Search performed","userId":"user508","service":"cart-service"}
+{"timestamp":"2025-04-11T07:13:19.539Z","level":"info","message":"Product added to cart","userId":"user897","service":"payment-service"}
+{"timestamp":"2025-04-11T07:13:20.546Z","level":"info","message":"Order placed","userId":"user583","service":"payment-service"}
+{"timestamp":"2025-04-11T07:13:21.552Z","level":"info","message":"Order placed","userId":"user657","service":"search-service"}
+{"timestamp":"2025-04-11T07:13:22.562Z","level":"info","message":"Search performed","userId":"user601","service":"payment-service"}
+{"timestamp":"2025-04-11T07:13:23.568Z","level":"info","message":"Product added to cart","userId":"user354","service":"search-service"}
+{"timestamp":"2025-04-11T07:13:24.569Z","level":"info","message":"Product added to cart","userId":"user362","service":"search-service"}
+{"timestamp":"2025-04-11T07:13:25.582Z","level":"info","message":"Payment failed","userId":"user125","service":"search-service"}
+{"timestamp":"2025-04-11T07:13:26.596Z","level":"info","message":"Search performed","userId":"user356","service":"cart-service"}
+{"timestamp":"2025-04-11T07:13:27.607Z","level":"error","message":"Order placed","userId":"user344","service":"search-service"}
+{"timestamp":"2025-04-11T07:13:28.609Z","level":"info","message":"Order placed","userId":"user811","service":"search-service"}
+{"timestamp":"2025-04-11T07:13:29.614Z","level":"info","message":"Product added to cart","userId":"user607","service":"payment-service"}
+{"timestamp":"2025-04-11T07:13:30.614Z","level":"info","message":"Payment processed","userId":"user961","service":"search-service"}
+{"timestamp":"2025-04-11T07:13:31.616Z","level":"error","message":"Order placed","userId":"user809","service":"cart-service"}
+{"timestamp":"2025-04-11T07:13:32.623Z","level":"info","message":"Payment failed","userId":"user228","service":"cart-service"}
+{"timestamp":"2025-04-11T07:13:33.624Z","level":"info","message":"Payment processed","userId":"user68","service":"cart-service"}
+{"timestamp":"2025-04-11T07:13:34.625Z","level":"info","message":"Search performed","userId":"user59","service":"cart-service"}
+{"timestamp":"2025-04-11T07:13:35.639Z","level":"info","message":"Payment processed","userId":"user773","service":"cart-service"}
+{"timestamp":"2025-04-11T07:13:36.640Z","level":"info","message":"Order placed","userId":"user387","service":"cart-service"}
+{"timestamp":"2025-04-11T07:13:37.640Z","level":"info","message":"User signed in successfully","userId":"user184","service":"auth-service"}
+{"timestamp":"2025-04-11T07:13:38.643Z","level":"error","message":"Payment failed","userId":"user331","service":"auth-service"}
+{"timestamp":"2025-04-11T07:13:39.649Z","level":"error","message":"Order placed","userId":"user484","service":"search-service"}
+{"timestamp":"2025-04-11T07:13:40.649Z","level":"info","message":"Product added to cart","userId":"user699","service":"auth-service"}
+{"timestamp":"2025-04-11T07:13:41.658Z","level":"info","message":"Search performed","userId":"user137","service":"payment-service"}
+{"timestamp":"2025-04-11T07:13:42.670Z","level":"info","message":"User signed in successfully","userId":"user589","service":"payment-service"}
+{"timestamp":"2025-04-11T07:13:43.674Z","level":"info","message":"User signed in successfully","userId":"user322","service":"auth-service"}
+{"timestamp":"2025-04-11T07:13:44.674Z","level":"info","message":"Search performed","userId":"user873","service":"payment-service"}
+{"timestamp":"2025-04-11T07:13:45.675Z","level":"error","message":"Search performed","userId":"user242","service":"search-service"}
+{"timestamp":"2025-04-11T07:13:46.681Z","level":"info","message":"User signed in successfully","userId":"user555","service":"payment-service"}
+{"timestamp":"2025-04-11T07:13:47.681Z","level":"info","message":"Payment processed","userId":"user321","service":"cart-service"}
+{"timestamp":"2025-04-11T07:13:48.685Z","level":"info","message":"Payment failed","userId":"user279","service":"cart-service"}
+{"timestamp":"2025-04-11T07:13:49.689Z","level":"info","message":"Payment failed","userId":"user195","service":"auth-service"}
+{"timestamp":"2025-04-11T07:13:50.692Z","level":"info","message":"Payment failed","userId":"user950","service":"cart-service"}
+{"timestamp":"2025-04-11T07:13:51.697Z","level":"error","message":"Payment processed","userId":"user921","service":"auth-service"}
+{"timestamp":"2025-04-11T07:13:52.698Z","level":"info","message":"Search performed","userId":"user399","service":"auth-service"}
+{"timestamp":"2025-04-11T07:13:53.701Z","level":"error","message":"Payment processed","userId":"user244","service":"payment-service"}
+{"timestamp":"2025-04-11T07:13:54.709Z","level":"info","message":"User signed in successfully","userId":"user576","service":"payment-service"}
+{"timestamp":"2025-04-11T07:13:55.716Z","level":"info","message":"Order placed","userId":"user363","service":"auth-service"}
+{"timestamp":"2025-04-11T07:13:56.718Z","level":"info","message":"Search performed","userId":"user53","service":"search-service"}
+{"timestamp":"2025-04-11T07:13:57.725Z","level":"error","message":"Order placed","userId":"user31","service":"auth-service"}
+{"timestamp":"2025-04-11T07:13:58.728Z","level":"info","message":"Product added to cart","userId":"user296","service":"auth-service"}
+{"timestamp":"2025-04-11T07:13:59.730Z","level":"info","message":"User signed in successfully","userId":"user150","service":"search-service"}
+{"timestamp":"2025-04-11T07:14:00.732Z","level":"info","message":"Order placed","userId":"user649","service":"search-service"}
+{"timestamp":"2025-04-11T07:14:01.736Z","level":"info","message":"Payment failed","userId":"user115","service":"search-service"}
+{"timestamp":"2025-04-11T07:14:02.736Z","level":"info","message":"Order placed","userId":"user706","service":"search-service"}
+{"timestamp":"2025-04-11T07:14:03.740Z","level":"error","message":"Order placed","userId":"user357","service":"payment-service"}
+{"timestamp":"2025-04-11T07:16:13.793Z","level":"info","message":"Payment processed","userId":"user317","service":"cart-service"}
+{"timestamp":"2025-04-11T07:16:14.800Z","level":"info","message":"Payment processed","userId":"user357","service":"search-service"}
+{"timestamp":"2025-04-11T07:16:15.801Z","level":"info","message":"Order placed","userId":"user314","service":"search-service"}
+{"timestamp":"2025-04-11T07:16:16.810Z","level":"info","message":"User signed in successfully","userId":"user248","service":"payment-service"}
+{"timestamp":"2025-04-11T07:16:17.821Z","level":"info","message":"Payment processed","userId":"user787","service":"payment-service"}
+{"timestamp":"2025-04-11T07:16:18.830Z","level":"error","message":"Payment processed","userId":"user142","service":"cart-service"}
+{"timestamp":"2025-04-11T07:16:19.840Z","level":"info","message":"Payment processed","userId":"user833","service":"payment-service"}
+{"timestamp":"2025-04-11T07:16:20.840Z","level":"info","message":"Search performed","userId":"user69","service":"search-service"}
+{"timestamp":"2025-04-11T07:16:21.845Z","level":"error","message":"Payment processed","userId":"user381","service":"payment-service"}
+{"timestamp":"2025-04-11T07:16:22.853Z","level":"info","message":"Product added to cart","userId":"user24","service":"auth-service"}
+{"timestamp":"2025-04-11T07:16:23.858Z","level":"error","message":"Product added to cart","userId":"user583","service":"payment-service"}
+{"timestamp":"2025-04-11T07:16:24.860Z","level":"info","message":"Payment failed","userId":"user996","service":"cart-service"}
+{"timestamp":"2025-04-11T07:16:25.872Z","level":"info","message":"Product added to cart","userId":"user610","service":"auth-service"}
+{"timestamp":"2025-04-11T07:16:26.874Z","level":"info","message":"Payment failed","userId":"user887","service":"cart-service"}
+{"timestamp":"2025-04-11T07:16:27.876Z","level":"info","message":"Payment processed","userId":"user890","service":"auth-service"}
+{"timestamp":"2025-04-11T07:16:28.883Z","level":"info","message":"Order placed","userId":"user400","service":"auth-service"}
+{"timestamp":"2025-04-11T07:16:29.891Z","level":"info","message":"Payment failed","userId":"user500","service":"search-service"}
+{"timestamp":"2025-04-11T07:16:30.894Z","level":"info","message":"Payment failed","userId":"user875","service":"payment-service"}
+{"timestamp":"2025-04-11T07:16:31.901Z","level":"info","message":"Search performed","userId":"user244","service":"cart-service"}
+{"timestamp":"2025-04-11T07:16:32.908Z","level":"info","message":"Payment failed","userId":"user354","service":"payment-service"}
+{"timestamp":"2025-04-11T07:16:33.915Z","level":"info","message":"Payment failed","userId":"user260","service":"auth-service"}
+{"timestamp":"2025-04-11T07:16:34.925Z","level":"info","message":"Payment failed","userId":"user722","service":"cart-service"}
+{"timestamp":"2025-04-11T07:16:35.932Z","level":"info","message":"Payment failed","userId":"user792","service":"payment-service"}
+{"timestamp":"2025-04-11T07:16:36.933Z","level":"info","message":"Payment processed","userId":"user988","service":"search-service"}
+{"timestamp":"2025-04-11T07:16:37.937Z","level":"info","message":"Payment processed","userId":"user350","service":"cart-service"}
+{"timestamp":"2025-04-11T07:16:38.938Z","level":"error","message":"Product added to cart","userId":"user903","service":"auth-service"}
+{"timestamp":"2025-04-11T07:16:39.940Z","level":"error","message":"Product added to cart","userId":"user396","service":"auth-service"}
+{"timestamp":"2025-04-11T07:16:40.948Z","level":"info","message":"Order placed","userId":"user242","service":"auth-service"}
+{"timestamp":"2025-04-11T07:16:41.948Z","level":"info","message":"Order placed","userId":"user948","service":"cart-service"}
+{"timestamp":"2025-04-11T07:16:42.956Z","level":"error","message":"Order placed","userId":"user831","service":"auth-service"}
+{"timestamp":"2025-04-11T07:16:43.956Z","level":"info","message":"Payment processed","userId":"user448","service":"auth-service"}
+{"timestamp":"2025-04-11T07:16:44.956Z","level":"info","message":"Payment processed","userId":"user392","service":"auth-service"}
+{"timestamp":"2025-04-11T07:16:45.971Z","level":"info","message":"Order placed","userId":"user223","service":"search-service"}
+{"timestamp":"2025-04-11T07:16:46.972Z","level":"info","message":"User signed in successfully","userId":"user666","service":"search-service"}
+{"timestamp":"2025-04-11T07:16:47.975Z","level":"info","message":"Payment processed","userId":"user774","service":"search-service"}
+{"timestamp":"2025-04-11T07:16:48.982Z","level":"info","message":"Order placed","userId":"user353","service":"payment-service"}
+{"timestamp":"2025-04-11T07:16:49.983Z","level":"info","message":"Payment failed","userId":"user535","service":"auth-service"}
+{"timestamp":"2025-04-11T07:16:50.987Z","level":"info","message":"Product added to cart","userId":"user808","service":"cart-service"}
+{"timestamp":"2025-04-11T07:16:51.989Z","level":"error","message":"Product added to cart","userId":"user59","service":"payment-service"}
+{"timestamp":"2025-04-11T07:16:52.989Z","level":"info","message":"Search performed","userId":"user174","service":"search-service"}
+{"timestamp":"2025-04-11T07:16:54.005Z","level":"info","message":"Payment failed","userId":"user787","service":"auth-service"}
+{"timestamp":"2025-04-11T07:16:55.005Z","level":"info","message":"Payment failed","userId":"user955","service":"payment-service"}
+{"timestamp":"2025-04-11T07:16:56.021Z","level":"info","message":"Search performed","userId":"user708","service":"auth-service"}
+{"timestamp":"2025-04-11T07:16:57.034Z","level":"info","message":"Product added to cart","userId":"user375","service":"payment-service"}
+{"timestamp":"2025-04-11T07:16:58.034Z","level":"info","message":"Search performed","userId":"user501","service":"payment-service"}
+{"timestamp":"2025-04-11T07:16:59.037Z","level":"info","message":"Order placed","userId":"user551","service":"payment-service"}
+{"timestamp":"2025-04-11T07:17:00.039Z","level":"info","message":"Payment failed","userId":"user65","service":"payment-service"}
+{"timestamp":"2025-04-11T07:17:01.045Z","level":"info","message":"Order placed","userId":"user750","service":"payment-service"}
+{"timestamp":"2025-04-11T07:17:02.057Z","level":"info","message":"Order placed","userId":"user380","service":"cart-service"}
+{"timestamp":"2025-04-11T07:17:03.058Z","level":"error","message":"Order placed","userId":"user471","service":"auth-service"}
+{"timestamp":"2025-04-11T07:17:04.067Z","level":"info","message":"Product added to cart","userId":"user591","service":"search-service"}
+{"timestamp":"2025-04-11T07:17:05.082Z","level":"info","message":"User signed in successfully","userId":"user481","service":"auth-service"}
+{"timestamp":"2025-04-11T07:17:06.086Z","level":"error","message":"User signed in successfully","userId":"user264","service":"search-service"}
+{"timestamp":"2025-04-11T07:17:07.098Z","level":"info","message":"Product added to cart","userId":"user111","service":"payment-service"}
+{"timestamp":"2025-04-11T07:17:08.108Z","level":"info","message":"Product added to cart","userId":"user474","service":"payment-service"}
+{"timestamp":"2025-04-11T07:17:09.110Z","level":"info","message":"User signed in successfully","userId":"user423","service":"search-service"}
+{"timestamp":"2025-04-11T07:17:10.113Z","level":"info","message":"Product added to cart","userId":"user594","service":"payment-service"}
+{"timestamp":"2025-04-11T07:17:11.114Z","level":"info","message":"Payment processed","userId":"user942","service":"cart-service"}
+{"timestamp":"2025-04-11T07:17:12.134Z","level":"info","message":"Payment failed","userId":"user667","service":"payment-service"}
+{"timestamp":"2025-04-11T07:17:13.148Z","level":"info","message":"Payment failed","userId":"user250","service":"payment-service"}
+{"timestamp":"2025-04-11T07:17:14.156Z","level":"info","message":"Product added to cart","userId":"user79","service":"search-service"}
+{"timestamp":"2025-04-11T07:17:15.157Z","level":"info","message":"Order placed","userId":"user792","service":"auth-service"}
+{"timestamp":"2025-04-11T07:17:16.160Z","level":"info","message":"Search performed","userId":"user361","service":"auth-service"}
+{"timestamp":"2025-04-11T07:17:17.160Z","level":"info","message":"User signed in successfully","userId":"user310","service":"payment-service"}
+{"timestamp":"2025-04-11T07:17:18.168Z","level":"info","message":"Order placed","userId":"user291","service":"search-service"}
+{"timestamp":"2025-04-11T07:17:19.172Z","level":"info","message":"Order placed","userId":"user576","service":"cart-service"}
+{"timestamp":"2025-04-11T07:17:20.177Z","level":"info","message":"Payment failed","userId":"user170","service":"payment-service"}
+{"timestamp":"2025-04-11T07:17:21.184Z","level":"info","message":"Payment failed","userId":"user752","service":"cart-service"}
+{"timestamp":"2025-04-11T07:17:22.194Z","level":"info","message":"Product added to cart","userId":"user793","service":"auth-service"}
+{"timestamp":"2025-04-11T07:17:23.194Z","level":"info","message":"User signed in successfully","userId":"user631","service":"cart-service"}
+{"timestamp":"2025-04-11T07:17:24.198Z","level":"error","message":"Order placed","userId":"user932","service":"search-service"}
+{"timestamp":"2025-04-11T07:17:25.198Z","level":"info","message":"Payment processed","userId":"user776","service":"search-service"}
+{"timestamp":"2025-04-11T07:17:26.200Z","level":"info","message":"Payment failed","userId":"user60","service":"search-service"}
+{"timestamp":"2025-04-11T07:17:27.210Z","level":"info","message":"User signed in successfully","userId":"user509","service":"search-service"}
+{"timestamp":"2025-04-11T07:17:28.212Z","level":"info","message":"Payment processed","userId":"user716","service":"search-service"}
+{"timestamp":"2025-04-11T07:17:29.215Z","level":"info","message":"Payment failed","userId":"user441","service":"cart-service"}
+{"timestamp":"2025-04-11T07:17:30.221Z","level":"info","message":"Payment failed","userId":"user937","service":"payment-service"}
+{"timestamp":"2025-04-11T07:17:31.234Z","level":"info","message":"Search performed","userId":"user797","service":"cart-service"}
+{"timestamp":"2025-04-11T07:17:32.234Z","level":"error","message":"Search performed","userId":"user94","service":"search-service"}
+{"timestamp":"2025-04-11T07:17:33.241Z","level":"error","message":"Product added to cart","userId":"user817","service":"search-service"}
+{"timestamp":"2025-04-11T07:17:34.242Z","level":"info","message":"User signed in successfully","userId":"user444","service":"cart-service"}
+{"timestamp":"2025-04-11T07:17:35.256Z","level":"info","message":"Payment failed","userId":"user608","service":"auth-service"}
+{"timestamp":"2025-04-11T07:17:36.257Z","level":"info","message":"User signed in successfully","userId":"user353","service":"payment-service"}
+{"timestamp":"2025-04-11T07:17:37.258Z","level":"info","message":"Search performed","userId":"user504","service":"auth-service"}
+{"timestamp":"2025-04-11T07:17:38.265Z","level":"info","message":"User signed in successfully","userId":"user386","service":"search-service"}
+{"timestamp":"2025-04-11T07:17:39.266Z","level":"info","message":"Product added to cart","userId":"user161","service":"auth-service"}
+{"timestamp":"2025-04-11T07:17:40.271Z","level":"info","message":"Order placed","userId":"user391","service":"search-service"}
+{"timestamp":"2025-04-11T07:17:41.277Z","level":"info","message":"Payment failed","userId":"user575","service":"payment-service"}
+{"timestamp":"2025-04-11T07:17:42.277Z","level":"info","message":"User signed in successfully","userId":"user929","service":"cart-service"}
+{"timestamp":"2025-04-11T07:17:43.282Z","level":"info","message":"Order placed","userId":"user470","service":"search-service"}
+{"timestamp":"2025-04-11T07:17:44.296Z","level":"info","message":"Payment failed","userId":"user761","service":"search-service"}
+{"timestamp":"2025-04-11T07:17:45.298Z","level":"info","message":"Payment failed","userId":"user670","service":"payment-service"}
+{"timestamp":"2025-04-11T07:17:46.298Z","level":"error","message":"Search performed","userId":"user595","service":"auth-service"}
+{"timestamp":"2025-04-11T07:17:47.298Z","level":"error","message":"Product added to cart","userId":"user915","service":"auth-service"}
+{"timestamp":"2025-04-11T07:17:48.304Z","level":"info","message":"Payment processed","userId":"user512","service":"payment-service"}
+{"timestamp":"2025-04-11T07:17:49.305Z","level":"info","message":"Product added to cart","userId":"user791","service":"cart-service"}
+{"timestamp":"2025-04-11T07:17:50.308Z","level":"info","message":"Order placed","userId":"user978","service":"payment-service"}
+{"timestamp":"2025-04-11T07:17:51.310Z","level":"info","message":"Payment processed","userId":"user972","service":"search-service"}
+{"timestamp":"2025-04-11T07:17:52.314Z","level":"info","message":"Search performed","userId":"user8","service":"payment-service"}
+{"timestamp":"2025-04-11T07:17:53.339Z","level":"info","message":"Product added to cart","userId":"user544","service":"search-service"}
+{"timestamp":"2025-04-11T07:17:54.343Z","level":"info","message":"Payment processed","userId":"user161","service":"payment-service"}
+{"timestamp":"2025-04-11T07:17:55.350Z","level":"info","message":"Search performed","userId":"user325","service":"search-service"}
+{"timestamp":"2025-04-11T07:17:56.354Z","level":"error","message":"User signed in successfully","userId":"user739","service":"cart-service"}
+{"timestamp":"2025-04-11T07:17:57.364Z","level":"info","message":"Order placed","userId":"user959","service":"cart-service"}
+{"timestamp":"2025-04-11T07:17:58.370Z","level":"error","message":"Product added to cart","userId":"user466","service":"search-service"}
+{"timestamp":"2025-04-11T07:17:59.375Z","level":"info","message":"Product added to cart","userId":"user325","service":"payment-service"}
+{"timestamp":"2025-04-11T07:18:00.376Z","level":"info","message":"Payment processed","userId":"user865","service":"payment-service"}
+{"timestamp":"2025-04-11T07:18:01.377Z","level":"info","message":"Order placed","userId":"user372","service":"search-service"}
+{"timestamp":"2025-04-11T07:18:02.378Z","level":"info","message":"Product added to cart","userId":"user105","service":"payment-service"}
+{"timestamp":"2025-04-11T07:18:03.388Z","level":"error","message":"User signed in successfully","userId":"user574","service":"search-service"}
+{"timestamp":"2025-04-11T07:18:04.393Z","level":"info","message":"User signed in successfully","userId":"user332","service":"auth-service"}
+{"timestamp":"2025-04-11T07:18:05.395Z","level":"info","message":"Order placed","userId":"user310","service":"payment-service"}
+{"timestamp":"2025-04-11T07:18:06.395Z","level":"info","message":"Search performed","userId":"user846","service":"payment-service"}
+{"timestamp":"2025-04-11T07:18:07.408Z","level":"info","message":"Search performed","userId":"user497","service":"payment-service"}
+{"timestamp":"2025-04-11T07:18:08.419Z","level":"info","message":"Product added to cart","userId":"user666","service":"auth-service"}
+{"timestamp":"2025-04-11T07:18:09.425Z","level":"error","message":"Payment failed","userId":"user802","service":"payment-service"}
+{"timestamp":"2025-04-11T07:18:10.430Z","level":"info","message":"User signed in successfully","userId":"user602","service":"search-service"}
+{"timestamp":"2025-04-11T07:18:11.441Z","level":"info","message":"Product added to cart","userId":"user254","service":"cart-service"}
+{"timestamp":"2025-04-11T07:18:12.443Z","level":"info","message":"Order placed","userId":"user262","service":"cart-service"}
+{"timestamp":"2025-04-11T07:18:13.447Z","level":"info","message":"Order placed","userId":"user447","service":"payment-service"}
+{"timestamp":"2025-04-11T07:18:14.449Z","level":"info","message":"Payment failed","userId":"user581","service":"payment-service"}
+{"timestamp":"2025-04-11T07:18:15.450Z","level":"info","message":"Payment processed","userId":"user110","service":"search-service"}
+{"timestamp":"2025-04-11T07:18:16.452Z","level":"info","message":"Payment failed","userId":"user839","service":"auth-service"}
+{"timestamp":"2025-04-11T07:18:17.453Z","level":"info","message":"Product added to cart","userId":"user633","service":"cart-service"}
+{"timestamp":"2025-04-11T07:18:18.457Z","level":"info","message":"Search performed","userId":"user678","service":"cart-service"}
+{"timestamp":"2025-04-11T07:18:19.472Z","level":"error","message":"Order placed","userId":"user509","service":"search-service"}
+{"timestamp":"2025-04-11T07:18:20.483Z","level":"info","message":"User signed in successfully","userId":"user675","service":"payment-service"}
+{"timestamp":"2025-04-11T07:18:21.497Z","level":"info","message":"Payment failed","userId":"user249","service":"payment-service"}
+{"timestamp":"2025-04-11T07:18:22.503Z","level":"info","message":"Payment processed","userId":"user962","service":"cart-service"}
+{"timestamp":"2025-04-11T07:18:23.509Z","level":"info","message":"User signed in successfully","userId":"user613","service":"payment-service"}
+{"timestamp":"2025-04-11T07:18:24.513Z","level":"error","message":"Payment failed","userId":"user626","service":"cart-service"}
+{"timestamp":"2025-04-11T07:18:25.517Z","level":"info","message":"User signed in successfully","userId":"user393","service":"payment-service"}
+{"timestamp":"2025-04-11T07:18:26.529Z","level":"info","message":"User signed in successfully","userId":"user193","service":"auth-service"}
+{"timestamp":"2025-04-11T07:18:27.532Z","level":"error","message":"Search performed","userId":"user826","service":"search-service"}
+{"timestamp":"2025-04-11T07:18:28.533Z","level":"info","message":"Payment failed","userId":"user482","service":"auth-service"}
+{"timestamp":"2025-04-11T07:18:29.543Z","level":"info","message":"Product added to cart","userId":"user932","service":"cart-service"}
+{"timestamp":"2025-04-11T07:18:30.554Z","level":"info","message":"Order placed","userId":"user711","service":"cart-service"}
+{"timestamp":"2025-04-11T07:18:31.569Z","level":"info","message":"Order placed","userId":"user320","service":"auth-service"}
+{"timestamp":"2025-04-11T07:18:32.580Z","level":"info","message":"Order placed","userId":"user638","service":"search-service"}
+{"timestamp":"2025-04-11T07:18:33.592Z","level":"info","message":"Payment failed","userId":"user250","service":"auth-service"}
+{"timestamp":"2025-04-11T07:18:34.598Z","level":"info","message":"Search performed","userId":"user866","service":"search-service"}
+{"timestamp":"2025-04-11T07:18:35.598Z","level":"info","message":"Payment processed","userId":"user586","service":"payment-service"}
+{"timestamp":"2025-04-11T07:18:36.613Z","level":"info","message":"Payment failed","userId":"user944","service":"auth-service"}
+{"timestamp":"2025-04-11T07:18:37.623Z","level":"info","message":"Order placed","userId":"user536","service":"auth-service"}
+{"timestamp":"2025-04-11T07:18:38.624Z","level":"info","message":"Search performed","userId":"user96","service":"search-service"}
+{"timestamp":"2025-04-11T07:18:39.630Z","level":"error","message":"User signed in successfully","userId":"user487","service":"auth-service"}
+{"timestamp":"2025-04-11T07:18:40.630Z","level":"info","message":"Search performed","userId":"user649","service":"search-service"}
+{"timestamp":"2025-04-11T07:18:41.631Z","level":"info","message":"User signed in successfully","userId":"user53","service":"auth-service"}
+{"timestamp":"2025-04-11T07:18:42.634Z","level":"info","message":"Search performed","userId":"user811","service":"auth-service"}
+{"timestamp":"2025-04-11T07:18:43.645Z","level":"info","message":"Product added to cart","userId":"user494","service":"search-service"}
+{"timestamp":"2025-04-11T07:18:44.647Z","level":"info","message":"User signed in successfully","userId":"user283","service":"cart-service"}
+{"timestamp":"2025-04-11T07:18:45.648Z","level":"error","message":"Payment processed","userId":"user547","service":"auth-service"}
+{"timestamp":"2025-04-11T07:18:46.660Z","level":"info","message":"Payment failed","userId":"user848","service":"search-service"}
+{"timestamp":"2025-04-11T07:18:47.664Z","level":"error","message":"Payment failed","userId":"user286","service":"cart-service"}
+{"timestamp":"2025-04-11T07:18:48.677Z","level":"info","message":"Order placed","userId":"user505","service":"search-service"}
+{"timestamp":"2025-04-11T07:18:49.677Z","level":"info","message":"User signed in successfully","userId":"user414","service":"cart-service"}
+{"timestamp":"2025-04-11T07:18:50.679Z","level":"info","message":"Search performed","userId":"user189","service":"search-service"}
+{"timestamp":"2025-04-11T07:18:51.690Z","level":"info","message":"Search performed","userId":"user274","service":"cart-service"}
+{"timestamp":"2025-04-11T07:18:52.705Z","level":"info","message":"Product added to cart","userId":"user988","service":"payment-service"}
+{"timestamp":"2025-04-11T07:18:53.708Z","level":"info","message":"User signed in successfully","userId":"user317","service":"payment-service"}
+{"timestamp":"2025-04-11T07:18:54.718Z","level":"info","message":"Order placed","userId":"user685","service":"cart-service"}
+{"timestamp":"2025-04-11T07:18:55.721Z","level":"info","message":"Search performed","userId":"user116","service":"payment-service"}
+{"timestamp":"2025-04-11T07:18:56.726Z","level":"error","message":"Order placed","userId":"user708","service":"search-service"}
+{"timestamp":"2025-04-11T07:18:57.728Z","level":"info","message":"Payment failed","userId":"user852","service":"auth-service"}
+{"timestamp":"2025-04-11T07:18:58.740Z","level":"error","message":"Payment processed","userId":"user900","service":"auth-service"}
+{"timestamp":"2025-04-11T07:18:59.746Z","level":"error","message":"Order placed","userId":"user435","service":"search-service"}
+{"timestamp":"2025-04-11T07:19:00.746Z","level":"info","message":"User signed in successfully","userId":"user736","service":"payment-service"}
+{"timestamp":"2025-04-11T07:19:01.755Z","level":"info","message":"Search performed","userId":"user248","service":"payment-service"}
+{"timestamp":"2025-04-11T07:19:02.760Z","level":"info","message":"Product added to cart","userId":"user32","service":"payment-service"}
+{"timestamp":"2025-04-11T07:19:03.763Z","level":"info","message":"Product added to cart","userId":"user492","service":"search-service"}
+{"timestamp":"2025-04-11T07:19:04.763Z","level":"info","message":"Search performed","userId":"user486","service":"auth-service"}
+{"timestamp":"2025-04-11T07:19:05.765Z","level":"info","message":"Payment processed","userId":"user938","service":"search-service"}
+{"timestamp":"2025-04-11T07:19:06.780Z","level":"info","message":"Product added to cart","userId":"user569","service":"payment-service"}
+{"timestamp":"2025-04-11T07:19:07.785Z","level":"error","message":"Search performed","userId":"user211","service":"payment-service"}
+{"timestamp":"2025-04-11T07:19:08.786Z","level":"info","message":"Order placed","userId":"user63","service":"payment-service"}
+{"timestamp":"2025-04-11T07:19:09.801Z","level":"error","message":"Payment failed","userId":"user735","service":"search-service"}
+{"timestamp":"2025-04-11T07:19:10.802Z","level":"error","message":"Product added to cart","userId":"user661","service":"search-service"}
+{"timestamp":"2025-04-11T07:19:11.808Z","level":"info","message":"Payment failed","userId":"user537","service":"payment-service"}
+{"timestamp":"2025-04-11T07:19:12.809Z","level":"error","message":"Order placed","userId":"user108","service":"payment-service"}
+{"timestamp":"2025-04-11T07:19:13.810Z","level":"info","message":"Order placed","userId":"user370","service":"auth-service"}
+{"timestamp":"2025-04-11T07:19:14.810Z","level":"info","message":"Search performed","userId":"user241","service":"cart-service"}
+{"timestamp":"2025-04-11T07:19:15.811Z","level":"info","message":"User signed in successfully","userId":"user758","service":"payment-service"}
+{"timestamp":"2025-04-11T07:19:16.812Z","level":"error","message":"Search performed","userId":"user174","service":"cart-service"}
+{"timestamp":"2025-04-11T07:19:17.824Z","level":"error","message":"Search performed","userId":"user370","service":"search-service"}
+{"timestamp":"2025-04-11T07:19:18.826Z","level":"info","message":"Search performed","userId":"user878","service":"auth-service"}
+{"timestamp":"2025-04-11T07:20:21.589Z","level":"error","message":"Payment failed","userId":"user891","service":"payment-service"}
+{"timestamp":"2025-04-11T07:20:22.594Z","level":"info","message":"Payment processed","userId":"user457","service":"search-service"}
+{"timestamp":"2025-04-11T07:20:23.608Z","level":"info","message":"Product added to cart","userId":"user363","service":"payment-service"}
+{"timestamp":"2025-04-11T07:20:24.622Z","level":"error","message":"Payment processed","userId":"user531","service":"cart-service"}
+{"timestamp":"2025-04-11T07:20:25.633Z","level":"error","message":"Order placed","userId":"user91","service":"cart-service"}
+{"timestamp":"2025-04-11T07:20:26.642Z","level":"info","message":"Product added to cart","userId":"user31","service":"search-service"}
+{"timestamp":"2025-04-11T07:20:27.657Z","level":"info","message":"Order placed","userId":"user753","service":"cart-service"}
+{"timestamp":"2025-04-11T07:20:28.663Z","level":"info","message":"Payment processed","userId":"user318","service":"cart-service"}
+{"timestamp":"2025-04-11T07:20:29.668Z","level":"info","message":"Payment processed","userId":"user48","service":"payment-service"}
+{"timestamp":"2025-04-11T07:20:30.682Z","level":"error","message":"Order placed","userId":"user209","service":"auth-service"}
+{"timestamp":"2025-04-11T07:20:31.688Z","level":"info","message":"User signed in successfully","userId":"user799","service":"auth-service"}
+{"timestamp":"2025-04-11T07:20:32.694Z","level":"error","message":"Order placed","userId":"user639","service":"payment-service"}
+{"timestamp":"2025-04-11T07:20:33.694Z","level":"info","message":"Payment failed","userId":"user785","service":"search-service"}
+{"timestamp":"2025-04-11T07:20:34.699Z","level":"info","message":"Search performed","userId":"user352","service":"auth-service"}
+{"timestamp":"2025-04-11T07:20:35.716Z","level":"info","message":"Search performed","userId":"user738","service":"search-service"}
+{"timestamp":"2025-04-11T07:20:36.717Z","level":"info","message":"Payment failed","userId":"user130","service":"auth-service"}
+{"timestamp":"2025-04-11T07:20:37.720Z","level":"info","message":"Order placed","userId":"user792","service":"cart-service"}
+{"timestamp":"2025-04-11T07:20:38.723Z","level":"info","message":"Payment failed","userId":"user370","service":"cart-service"}
+{"timestamp":"2025-04-11T07:20:39.733Z","level":"info","message":"Payment processed","userId":"user19","service":"search-service"}
+{"timestamp":"2025-04-11T07:20:40.746Z","level":"info","message":"Payment processed","userId":"user293","service":"search-service"}
+{"timestamp":"2025-04-11T07:20:41.753Z","level":"error","message":"Product added to cart","userId":"user809","service":"cart-service"}
+{"timestamp":"2025-04-11T07:20:42.759Z","level":"info","message":"Order placed","userId":"user372","service":"cart-service"}
+{"timestamp":"2025-04-11T07:20:43.765Z","level":"info","message":"Product added to cart","userId":"user488","service":"search-service"}
+{"timestamp":"2025-04-11T07:20:44.771Z","level":"info","message":"Payment processed","userId":"user753","service":"auth-service"}
+{"timestamp":"2025-04-11T07:20:45.771Z","level":"info","message":"Search performed","userId":"user185","service":"search-service"}
+{"timestamp":"2025-04-11T07:20:46.779Z","level":"info","message":"Payment processed","userId":"user481","service":"payment-service"}
+{"timestamp":"2025-04-11T07:20:47.787Z","level":"error","message":"Search performed","userId":"user366","service":"auth-service"}
+{"timestamp":"2025-04-11T07:20:48.795Z","level":"error","message":"Payment processed","userId":"user854","service":"payment-service"}
+{"timestamp":"2025-04-11T07:20:49.797Z","level":"info","message":"User signed in successfully","userId":"user176","service":"payment-service"}
+{"timestamp":"2025-04-11T07:20:50.797Z","level":"info","message":"Product added to cart","userId":"user14","service":"payment-service"}
+{"timestamp":"2025-04-11T07:20:51.813Z","level":"error","message":"Order placed","userId":"user355","service":"auth-service"}
+{"timestamp":"2025-04-11T07:20:52.827Z","level":"error","message":"User signed in successfully","userId":"user56","service":"payment-service"}
+{"timestamp":"2025-04-11T07:20:53.829Z","level":"info","message":"Payment processed","userId":"user692","service":"cart-service"}
+{"timestamp":"2025-04-11T07:20:54.833Z","level":"info","message":"Payment failed","userId":"user809","service":"auth-service"}
+{"timestamp":"2025-04-11T07:20:55.849Z","level":"error","message":"User signed in successfully","userId":"user457","service":"auth-service"}
+{"timestamp":"2025-04-11T07:20:56.850Z","level":"error","message":"Search performed","userId":"user156","service":"search-service"}
+{"timestamp":"2025-04-11T07:20:57.854Z","level":"error","message":"Search performed","userId":"user259","service":"payment-service"}
+{"timestamp":"2025-04-11T07:20:58.862Z","level":"info","message":"User signed in successfully","userId":"user614","service":"cart-service"}
+{"timestamp":"2025-04-11T07:20:59.863Z","level":"info","message":"Product added to cart","userId":"user21","service":"payment-service"}
+{"timestamp":"2025-04-11T07:21:00.863Z","level":"info","message":"Payment failed","userId":"user219","service":"payment-service"}
+{"timestamp":"2025-04-11T07:21:01.867Z","level":"info","message":"Payment processed","userId":"user785","service":"payment-service"}
+{"timestamp":"2025-04-11T07:21:02.870Z","level":"info","message":"Payment failed","userId":"user623","service":"search-service"}
+{"timestamp":"2025-04-11T07:21:03.884Z","level":"info","message":"Payment failed","userId":"user623","service":"payment-service"}
+{"timestamp":"2025-04-11T07:21:04.887Z","level":"error","message":"User signed in successfully","userId":"user373","service":"payment-service"}
+{"timestamp":"2025-04-11T07:21:05.886Z","level":"info","message":"Order placed","userId":"user507","service":"payment-service"}
+{"timestamp":"2025-04-11T07:21:06.893Z","level":"info","message":"Product added to cart","userId":"user311","service":"payment-service"}
+{"timestamp":"2025-04-11T07:21:07.893Z","level":"info","message":"User signed in successfully","userId":"user183","service":"auth-service"}
+{"timestamp":"2025-04-11T07:21:08.895Z","level":"info","message":"Order placed","userId":"user686","service":"auth-service"}
+{"timestamp":"2025-04-11T07:21:09.894Z","level":"info","message":"Search performed","userId":"user617","service":"payment-service"}
+{"timestamp":"2025-04-11T07:21:10.902Z","level":"info","message":"User signed in successfully","userId":"user256","service":"search-service"}
+{"timestamp":"2025-04-11T07:21:11.905Z","level":"info","message":"Payment processed","userId":"user767","service":"payment-service"}
+{"timestamp":"2025-04-11T07:21:12.919Z","level":"error","message":"Order placed","userId":"user466","service":"payment-service"}
+{"timestamp":"2025-04-11T07:21:13.918Z","level":"info","message":"Payment processed","userId":"user341","service":"search-service"}
+{"timestamp":"2025-04-11T07:21:14.925Z","level":"info","message":"Payment processed","userId":"user636","service":"auth-service"}
+{"timestamp":"2025-04-11T07:21:15.939Z","level":"info","message":"Payment failed","userId":"user320","service":"auth-service"}
+{"timestamp":"2025-04-11T07:21:16.947Z","level":"info","message":"Payment processed","userId":"user734","service":"search-service"}
+{"timestamp":"2025-04-11T07:21:17.952Z","level":"info","message":"User signed in successfully","userId":"user650","service":"cart-service"}
+{"timestamp":"2025-04-11T07:21:18.960Z","level":"info","message":"Search performed","userId":"user404","service":"cart-service"}
+{"timestamp":"2025-04-11T07:21:19.969Z","level":"error","message":"Search performed","userId":"user902","service":"payment-service"}
+{"timestamp":"2025-04-11T07:21:20.971Z","level":"info","message":"Payment failed","userId":"user31","service":"cart-service"}
+{"timestamp":"2025-04-11T07:21:21.986Z","level":"info","message":"Search performed","userId":"user428","service":"cart-service"}
+{"timestamp":"2025-04-11T07:21:22.998Z","level":"info","message":"Payment processed","userId":"user942","service":"search-service"}
+{"timestamp":"2025-04-11T07:21:23.998Z","level":"info","message":"Order placed","userId":"user882","service":"payment-service"}
+{"timestamp":"2025-04-11T07:21:25.000Z","level":"info","message":"Search performed","userId":"user901","service":"payment-service"}
+{"timestamp":"2025-04-11T07:21:26.001Z","level":"info","message":"Payment processed","userId":"user85","service":"cart-service"}
+{"timestamp":"2025-04-11T07:21:27.006Z","level":"info","message":"Payment failed","userId":"user823","service":"payment-service"}
+{"timestamp":"2025-04-11T07:21:28.019Z","level":"error","message":"Payment failed","userId":"user344","service":"payment-service"}
+{"timestamp":"2025-04-11T07:21:29.024Z","level":"info","message":"Search performed","userId":"user940","service":"cart-service"}
+{"timestamp":"2025-04-11T07:21:30.025Z","level":"info","message":"User signed in successfully","userId":"user170","service":"cart-service"}
+{"timestamp":"2025-04-11T07:21:31.025Z","level":"info","message":"Order placed","userId":"user860","service":"auth-service"}
+{"timestamp":"2025-04-11T07:21:32.033Z","level":"error","message":"Payment processed","userId":"user348","service":"auth-service"}
+{"timestamp":"2025-04-11T07:21:33.033Z","level":"info","message":"Order placed","userId":"user496","service":"payment-service"}
+{"timestamp":"2025-04-11T07:21:34.033Z","level":"info","message":"Search performed","userId":"user344","service":"auth-service"}
+{"timestamp":"2025-04-11T07:21:35.038Z","level":"error","message":"Product added to cart","userId":"user805","service":"payment-service"}
+{"timestamp":"2025-04-11T07:21:36.049Z","level":"error","message":"User signed in successfully","userId":"user959","service":"auth-service"}
+{"timestamp":"2025-04-11T07:21:37.049Z","level":"info","message":"Product added to cart","userId":"user40","service":"cart-service"}
+{"timestamp":"2025-04-11T07:21:38.049Z","level":"info","message":"Search performed","userId":"user84","service":"cart-service"}
+{"timestamp":"2025-04-11T07:21:39.057Z","level":"info","message":"Order placed","userId":"user178","service":"auth-service"}
+{"timestamp":"2025-04-11T07:21:40.066Z","level":"info","message":"Payment failed","userId":"user945","service":"cart-service"}
+{"timestamp":"2025-04-11T07:21:41.071Z","level":"info","message":"Search performed","userId":"user201","service":"payment-service"}
+{"timestamp":"2025-04-11T07:21:42.072Z","level":"info","message":"Search performed","userId":"user193","service":"auth-service"}
+{"timestamp":"2025-04-11T07:21:43.073Z","level":"info","message":"Product added to cart","userId":"user821","service":"payment-service"}
+{"timestamp":"2025-04-11T07:21:44.073Z","level":"info","message":"Payment failed","userId":"user320","service":"auth-service"}
+{"timestamp":"2025-04-11T07:21:45.081Z","level":"error","message":"Product added to cart","userId":"user937","service":"search-service"}
+{"timestamp":"2025-04-11T07:21:46.089Z","level":"error","message":"Order placed","userId":"user15","service":"cart-service"}
+{"timestamp":"2025-04-11T07:21:47.089Z","level":"info","message":"User signed in successfully","userId":"user62","service":"payment-service"}
+{"timestamp":"2025-04-11T07:21:48.092Z","level":"error","message":"Search performed","userId":"user218","service":"payment-service"}
+{"timestamp":"2025-04-11T07:21:49.097Z","level":"info","message":"Payment failed","userId":"user28","service":"payment-service"}
+{"timestamp":"2025-04-11T07:21:50.097Z","level":"info","message":"Product added to cart","userId":"user647","service":"payment-service"}
+{"timestamp":"2025-04-11T07:21:51.104Z","level":"error","message":"Product added to cart","userId":"user457","service":"payment-service"}
+{"timestamp":"2025-04-11T07:21:52.107Z","level":"info","message":"Payment processed","userId":"user907","service":"auth-service"}
+{"timestamp":"2025-04-11T07:21:53.113Z","level":"error","message":"Payment failed","userId":"user787","service":"cart-service"}
+{"timestamp":"2025-04-11T07:21:54.121Z","level":"info","message":"Payment failed","userId":"user693","service":"auth-service"}
+{"timestamp":"2025-04-11T07:21:55.136Z","level":"info","message":"Search performed","userId":"user392","service":"auth-service"}
+{"timestamp":"2025-04-11T07:21:56.150Z","level":"error","message":"Search performed","userId":"user734","service":"payment-service"}
+{"timestamp":"2025-04-11T07:21:57.160Z","level":"error","message":"Payment failed","userId":"user944","service":"auth-service"}
+{"timestamp":"2025-04-11T07:21:58.163Z","level":"info","message":"Payment failed","userId":"user582","service":"search-service"}
+{"timestamp":"2025-04-11T07:21:59.173Z","level":"error","message":"Payment processed","userId":"user802","service":"search-service"}
+{"timestamp":"2025-04-11T07:22:00.183Z","level":"info","message":"Payment failed","userId":"user940","service":"cart-service"}
+{"timestamp":"2025-04-11T07:22:01.185Z","level":"info","message":"Payment processed","userId":"user395","service":"auth-service"}
+{"timestamp":"2025-04-11T07:22:02.189Z","level":"info","message":"Product added to cart","userId":"user198","service":"cart-service"}
+{"timestamp":"2025-04-11T07:22:03.193Z","level":"info","message":"User signed in successfully","userId":"user207","service":"cart-service"}
+{"timestamp":"2025-04-11T07:22:04.208Z","level":"info","message":"Product added to cart","userId":"user651","service":"auth-service"}
+{"timestamp":"2025-04-11T07:22:05.208Z","level":"info","message":"Product added to cart","userId":"user289","service":"cart-service"}
+{"timestamp":"2025-04-11T07:22:06.215Z","level":"info","message":"Product added to cart","userId":"user957","service":"cart-service"}
+{"timestamp":"2025-04-11T07:22:07.224Z","level":"info","message":"User signed in successfully","userId":"user102","service":"search-service"}
+{"timestamp":"2025-04-11T07:22:08.235Z","level":"info","message":"Search performed","userId":"user644","service":"search-service"}
+{"timestamp":"2025-04-11T07:22:09.246Z","level":"info","message":"Order placed","userId":"user561","service":"search-service"}
+{"timestamp":"2025-04-11T07:22:10.257Z","level":"error","message":"Search performed","userId":"user890","service":"payment-service"}
+{"timestamp":"2025-04-11T07:22:11.267Z","level":"info","message":"Order placed","userId":"user46","service":"auth-service"}
+{"timestamp":"2025-04-11T07:22:12.271Z","level":"info","message":"Product added to cart","userId":"user904","service":"auth-service"}
+{"timestamp":"2025-04-11T07:22:13.279Z","level":"info","message":"User signed in successfully","userId":"user512","service":"auth-service"}
+{"timestamp":"2025-04-11T07:22:14.291Z","level":"info","message":"Search performed","userId":"user109","service":"cart-service"}
+{"timestamp":"2025-04-11T07:22:15.293Z","level":"info","message":"Product added to cart","userId":"user280","service":"search-service"}
+{"timestamp":"2025-04-11T07:22:16.295Z","level":"info","message":"Payment failed","userId":"user322","service":"cart-service"}
+{"timestamp":"2025-04-11T07:22:17.308Z","level":"info","message":"Order placed","userId":"user297","service":"cart-service"}
+{"timestamp":"2025-04-11T07:22:18.317Z","level":"error","message":"Search performed","userId":"user314","service":"auth-service"}
+{"timestamp":"2025-04-11T07:22:19.329Z","level":"info","message":"Search performed","userId":"user269","service":"search-service"}
+{"timestamp":"2025-04-11T07:22:20.329Z","level":"info","message":"User signed in successfully","userId":"user497","service":"cart-service"}
+{"timestamp":"2025-04-11T07:22:21.332Z","level":"info","message":"Payment failed","userId":"user108","service":"payment-service"}
+{"timestamp":"2025-04-11T07:22:22.334Z","level":"error","message":"Product added to cart","userId":"user15","service":"cart-service"}
+{"timestamp":"2025-04-11T07:22:23.336Z","level":"info","message":"Search performed","userId":"user836","service":"cart-service"}
+{"timestamp":"2025-04-11T07:22:24.347Z","level":"info","message":"Payment failed","userId":"user849","service":"payment-service"}
+{"timestamp":"2025-04-11T07:22:25.359Z","level":"info","message":"Order placed","userId":"user647","service":"cart-service"}
+{"timestamp":"2025-04-11T07:22:26.366Z","level":"error","message":"Payment processed","userId":"user151","service":"auth-service"}
+{"timestamp":"2025-04-11T07:22:27.370Z","level":"info","message":"Payment failed","userId":"user528","service":"payment-service"}
+{"timestamp":"2025-04-11T07:22:28.374Z","level":"info","message":"Payment failed","userId":"user854","service":"cart-service"}
+{"timestamp":"2025-04-11T07:22:29.384Z","level":"info","message":"Product added to cart","userId":"user910","service":"search-service"}
+{"timestamp":"2025-04-11T07:22:30.388Z","level":"info","message":"Product added to cart","userId":"user753","service":"payment-service"}
+{"timestamp":"2025-04-11T07:22:31.397Z","level":"info","message":"Payment processed","userId":"user879","service":"auth-service"}
+{"timestamp":"2025-04-11T07:22:32.405Z","level":"info","message":"Order placed","userId":"user959","service":"auth-service"}
+{"timestamp":"2025-04-11T07:22:33.408Z","level":"info","message":"Payment failed","userId":"user128","service":"auth-service"}
+{"timestamp":"2025-04-11T07:22:34.416Z","level":"info","message":"Product added to cart","userId":"user254","service":"cart-service"}
+{"timestamp":"2025-04-11T07:22:35.440Z","level":"info","message":"User signed in successfully","userId":"user997","service":"search-service"}
+{"timestamp":"2025-04-11T07:22:36.447Z","level":"info","message":"Payment processed","userId":"user900","service":"cart-service"}
+{"timestamp":"2025-04-11T07:22:37.457Z","level":"info","message":"Payment processed","userId":"user562","service":"payment-service"}
+{"timestamp":"2025-04-11T07:22:38.456Z","level":"error","message":"Product added to cart","userId":"user842","service":"cart-service"}
+{"timestamp":"2025-04-11T07:22:39.459Z","level":"info","message":"Product added to cart","userId":"user521","service":"search-service"}
+{"timestamp":"2025-04-11T07:22:40.464Z","level":"error","message":"Product added to cart","userId":"user756","service":"payment-service"}
+{"timestamp":"2025-04-11T07:22:41.475Z","level":"info","message":"Payment failed","userId":"user74","service":"cart-service"}
+{"timestamp":"2025-04-11T07:22:42.476Z","level":"info","message":"Payment failed","userId":"user79","service":"search-service"}
+{"timestamp":"2025-04-11T07:22:43.487Z","level":"error","message":"Search performed","userId":"user422","service":"payment-service"}
+{"timestamp":"2025-04-11T07:22:44.505Z","level":"info","message":"Payment processed","userId":"user792","service":"search-service"}
+{"timestamp":"2025-04-11T07:22:45.515Z","level":"info","message":"Payment processed","userId":"user971","service":"payment-service"}
+{"timestamp":"2025-04-11T07:22:46.522Z","level":"info","message":"Order placed","userId":"user975","service":"payment-service"}
+{"timestamp":"2025-04-11T07:22:47.522Z","level":"error","message":"Payment processed","userId":"user365","service":"payment-service"}
+{"timestamp":"2025-04-11T07:22:48.523Z","level":"info","message":"User signed in successfully","userId":"user369","service":"payment-service"}
+{"timestamp":"2025-04-11T07:22:49.530Z","level":"info","message":"Payment failed","userId":"user702","service":"search-service"}
+{"timestamp":"2025-04-11T07:22:50.536Z","level":"info","message":"Search performed","userId":"user463","service":"payment-service"}
+{"timestamp":"2025-04-11T07:22:51.538Z","level":"info","message":"Order placed","userId":"user787","service":"auth-service"}
+{"timestamp":"2025-04-11T07:22:52.548Z","level":"info","message":"Search performed","userId":"user368","service":"payment-service"}
+{"timestamp":"2025-04-11T07:22:53.557Z","level":"info","message":"Payment processed","userId":"user745","service":"cart-service"}
+{"timestamp":"2025-04-11T07:22:54.561Z","level":"error","message":"User signed in successfully","userId":"user267","service":"auth-service"}
+{"timestamp":"2025-04-11T07:22:55.563Z","level":"info","message":"User signed in successfully","userId":"user70","service":"search-service"}
+{"timestamp":"2025-04-11T07:22:56.564Z","level":"error","message":"Payment processed","userId":"user634","service":"cart-service"}
+{"timestamp":"2025-04-11T07:22:57.576Z","level":"info","message":"Order placed","userId":"user972","service":"cart-service"}
+{"timestamp":"2025-04-11T07:22:58.578Z","level":"error","message":"Payment failed","userId":"user183","service":"search-service"}
+{"timestamp":"2025-04-11T07:22:59.587Z","level":"error","message":"Product added to cart","userId":"user123","service":"auth-service"}
+{"timestamp":"2025-04-11T07:23:00.589Z","level":"info","message":"Payment processed","userId":"user74","service":"search-service"}
+{"timestamp":"2025-04-11T07:23:01.596Z","level":"info","message":"Payment failed","userId":"user834","service":"payment-service"}
+{"timestamp":"2025-04-11T07:23:02.611Z","level":"info","message":"Payment processed","userId":"user740","service":"search-service"}
+{"timestamp":"2025-04-11T07:23:03.611Z","level":"info","message":"Product added to cart","userId":"user584","service":"auth-service"}
+{"timestamp":"2025-04-11T07:23:04.612Z","level":"info","message":"Product added to cart","userId":"user127","service":"payment-service"}
+{"timestamp":"2025-04-11T07:23:05.627Z","level":"info","message":"Order placed","userId":"user986","service":"auth-service"}
+{"timestamp":"2025-04-11T07:23:06.633Z","level":"error","message":"Product added to cart","userId":"user125","service":"search-service"}
+{"timestamp":"2025-04-11T07:23:07.633Z","level":"info","message":"Order placed","userId":"user384","service":"payment-service"}
+{"timestamp":"2025-04-11T07:23:08.649Z","level":"info","message":"Order placed","userId":"user147","service":"auth-service"}
+{"timestamp":"2025-04-11T07:23:09.648Z","level":"info","message":"Product added to cart","userId":"user476","service":"search-service"}
+{"timestamp":"2025-04-11T07:23:10.663Z","level":"info","message":"Product added to cart","userId":"user319","service":"search-service"}
+{"timestamp":"2025-04-11T07:23:11.671Z","level":"info","message":"User signed in successfully","userId":"user38","service":"payment-service"}
+{"timestamp":"2025-04-11T07:23:12.674Z","level":"info","message":"Payment processed","userId":"user487","service":"auth-service"}
+{"timestamp":"2025-04-11T07:23:13.676Z","level":"info","message":"User signed in successfully","userId":"user135","service":"auth-service"}
+{"timestamp":"2025-04-11T07:23:14.692Z","level":"info","message":"User signed in successfully","userId":"user554","service":"cart-service"}
+{"timestamp":"2025-04-11T07:23:15.701Z","level":"info","message":"Payment failed","userId":"user284","service":"payment-service"}
+{"timestamp":"2025-04-11T07:23:16.710Z","level":"error","message":"Order placed","userId":"user558","service":"auth-service"}
+{"timestamp":"2025-04-11T07:23:17.724Z","level":"info","message":"User signed in successfully","userId":"user700","service":"payment-service"}
+{"timestamp":"2025-04-11T07:23:18.724Z","level":"error","message":"User signed in successfully","userId":"user915","service":"auth-service"}
+{"timestamp":"2025-04-11T07:23:19.728Z","level":"info","message":"User signed in successfully","userId":"user297","service":"search-service"}
+{"timestamp":"2025-04-11T07:23:20.733Z","level":"info","message":"Search performed","userId":"user100","service":"auth-service"}
+{"timestamp":"2025-04-11T07:23:21.735Z","level":"info","message":"Payment failed","userId":"user175","service":"auth-service"}
+{"timestamp":"2025-04-11T07:23:22.742Z","level":"info","message":"Payment failed","userId":"user487","service":"search-service"}
+{"timestamp":"2025-04-11T07:23:23.742Z","level":"info","message":"User signed in successfully","userId":"user866","service":"search-service"}
+{"timestamp":"2025-04-11T07:23:24.755Z","level":"info","message":"Payment processed","userId":"user928","service":"search-service"}
+{"timestamp":"2025-04-11T07:23:25.769Z","level":"info","message":"Order placed","userId":"user640","service":"payment-service"}
+{"timestamp":"2025-04-11T07:23:26.773Z","level":"info","message":"Product added to cart","userId":"user512","service":"search-service"}
+{"timestamp":"2025-04-11T07:23:27.775Z","level":"error","message":"Product added to cart","userId":"user267","service":"search-service"}
+{"timestamp":"2025-04-11T07:23:28.775Z","level":"info","message":"User signed in successfully","userId":"user939","service":"cart-service"}
+{"timestamp":"2025-04-11T07:23:29.782Z","level":"info","message":"Search performed","userId":"user181","service":"cart-service"}
+{"timestamp":"2025-04-11T07:23:30.783Z","level":"info","message":"Payment failed","userId":"user120","service":"auth-service"}
+{"timestamp":"2025-04-11T07:23:31.783Z","level":"info","message":"User signed in successfully","userId":"user968","service":"payment-service"}
+{"timestamp":"2025-04-11T07:23:32.789Z","level":"info","message":"User signed in successfully","userId":"user930","service":"search-service"}
+{"timestamp":"2025-04-11T07:23:33.791Z","level":"info","message":"Order placed","userId":"user833","service":"cart-service"}
+{"timestamp":"2025-04-11T07:23:34.807Z","level":"info","message":"Payment failed","userId":"user630","service":"search-service"}
+{"timestamp":"2025-04-11T07:23:35.807Z","level":"info","message":"Payment failed","userId":"user920","service":"cart-service"}
+{"timestamp":"2025-04-11T07:23:36.809Z","level":"info","message":"Payment processed","userId":"user167","service":"cart-service"}
+{"timestamp":"2025-04-11T07:23:37.816Z","level":"info","message":"Payment processed","userId":"user544","service":"payment-service"}
+{"timestamp":"2025-04-11T07:23:38.816Z","level":"info","message":"User signed in successfully","userId":"user211","service":"payment-service"}
+{"timestamp":"2025-04-11T07:23:39.823Z","level":"info","message":"User signed in successfully","userId":"user937","service":"payment-service"}
+{"timestamp":"2025-04-11T07:23:40.823Z","level":"info","message":"Payment processed","userId":"user671","service":"search-service"}
+{"timestamp":"2025-04-11T07:23:41.823Z","level":"info","message":"Search performed","userId":"user315","service":"cart-service"}
+{"timestamp":"2025-04-11T07:23:42.823Z","level":"info","message":"User signed in successfully","userId":"user917","service":"auth-service"}
+{"timestamp":"2025-04-11T07:23:43.824Z","level":"info","message":"Product added to cart","userId":"user962","service":"cart-service"}
+{"timestamp":"2025-04-11T07:23:44.827Z","level":"info","message":"Order placed","userId":"user658","service":"cart-service"}
+{"timestamp":"2025-04-11T07:23:45.833Z","level":"error","message":"Payment failed","userId":"user616","service":"cart-service"}
+{"timestamp":"2025-04-11T07:23:46.837Z","level":"info","message":"Search performed","userId":"user16","service":"cart-service"}
+{"timestamp":"2025-04-11T07:23:47.839Z","level":"info","message":"Payment processed","userId":"user634","service":"search-service"}
+{"timestamp":"2025-04-11T07:23:48.842Z","level":"info","message":"Order placed","userId":"user964","service":"cart-service"}
+{"timestamp":"2025-04-11T07:23:49.847Z","level":"info","message":"Payment processed","userId":"user42","service":"auth-service"}
+{"timestamp":"2025-04-11T07:23:50.853Z","level":"info","message":"Payment failed","userId":"user485","service":"search-service"}
+{"timestamp":"2025-04-11T07:23:51.863Z","level":"info","message":"Product added to cart","userId":"user326","service":"cart-service"}
+{"timestamp":"2025-04-11T07:23:52.870Z","level":"info","message":"Payment failed","userId":"user414","service":"search-service"}
+{"timestamp":"2025-04-11T07:23:53.877Z","level":"error","message":"User signed in successfully","userId":"user222","service":"payment-service"}
+{"timestamp":"2025-04-11T07:23:54.886Z","level":"info","message":"Payment processed","userId":"user181","service":"search-service"}
+{"timestamp":"2025-04-11T07:23:55.901Z","level":"error","message":"Order placed","userId":"user332","service":"auth-service"}
+{"timestamp":"2025-04-11T07:23:56.903Z","level":"info","message":"Payment failed","userId":"user421","service":"auth-service"}
+{"timestamp":"2025-04-11T07:23:57.904Z","level":"error","message":"User signed in successfully","userId":"user305","service":"cart-service"}
+{"timestamp":"2025-04-11T07:23:58.907Z","level":"info","message":"Search performed","userId":"user973","service":"payment-service"}
+{"timestamp":"2025-04-11T07:23:59.912Z","level":"info","message":"Order placed","userId":"user466","service":"payment-service"}
+{"timestamp":"2025-04-11T07:24:00.919Z","level":"error","message":"Order placed","userId":"user346","service":"search-service"}
+{"timestamp":"2025-04-11T07:24:01.921Z","level":"error","message":"User signed in successfully","userId":"user517","service":"search-service"}
+{"timestamp":"2025-04-11T07:24:02.922Z","level":"info","message":"Search performed","userId":"user853","service":"search-service"}
+{"timestamp":"2025-04-11T07:24:03.929Z","level":"info","message":"Payment processed","userId":"user2","service":"payment-service"}
+{"timestamp":"2025-04-11T07:24:04.939Z","level":"info","message":"User signed in successfully","userId":"user658","service":"payment-service"}
+{"timestamp":"2025-04-11T07:24:05.939Z","level":"info","message":"Search performed","userId":"user986","service":"search-service"}
+{"timestamp":"2025-04-11T07:24:06.945Z","level":"info","message":"Search performed","userId":"user684","service":"payment-service"}
+{"timestamp":"2025-04-11T07:24:07.952Z","level":"info","message":"Order placed","userId":"user600","service":"search-service"}
+{"timestamp":"2025-04-11T07:24:08.952Z","level":"info","message":"Product added to cart","userId":"user549","service":"cart-service"}
+{"timestamp":"2025-04-11T07:24:09.959Z","level":"info","message":"Product added to cart","userId":"user759","service":"search-service"}
+{"timestamp":"2025-04-11T07:24:10.971Z","level":"info","message":"Payment failed","userId":"user205","service":"search-service"}
+{"timestamp":"2025-04-11T07:24:11.981Z","level":"error","message":"Payment processed","userId":"user491","service":"auth-service"}
+{"timestamp":"2025-04-11T07:24:12.996Z","level":"info","message":"Product added to cart","userId":"user888","service":"search-service"}
+{"timestamp":"2025-04-11T07:24:14.001Z","level":"info","message":"Order placed","userId":"user56","service":"search-service"}
+{"timestamp":"2025-04-11T07:24:15.002Z","level":"info","message":"Payment processed","userId":"user328","service":"search-service"}
+{"timestamp":"2025-04-11T07:24:16.009Z","level":"error","message":"Payment processed","userId":"user866","service":"cart-service"}
+{"timestamp":"2025-04-11T07:24:17.011Z","level":"info","message":"Payment failed","userId":"user806","service":"cart-service"}
+{"timestamp":"2025-04-11T07:24:18.017Z","level":"info","message":"User signed in successfully","userId":"user459","service":"search-service"}
+{"timestamp":"2025-04-11T07:24:19.027Z","level":"info","message":"Search performed","userId":"user332","service":"auth-service"}
+{"timestamp":"2025-04-11T07:24:20.030Z","level":"info","message":"Payment processed","userId":"user901","service":"cart-service"}
+{"timestamp":"2025-04-11T07:24:21.034Z","level":"info","message":"User signed in successfully","userId":"user809","service":"auth-service"}
+{"timestamp":"2025-04-11T07:24:22.046Z","level":"info","message":"Payment failed","userId":"user632","service":"cart-service"}
+{"timestamp":"2025-04-11T07:24:23.056Z","level":"info","message":"Payment processed","userId":"user621","service":"search-service"}
+{"timestamp":"2025-04-11T07:24:24.059Z","level":"info","message":"Payment processed","userId":"user167","service":"auth-service"}
+{"timestamp":"2025-04-11T07:24:25.074Z","level":"info","message":"Payment failed","userId":"user774","service":"auth-service"}
+{"timestamp":"2025-04-11T07:24:26.075Z","level":"info","message":"Product added to cart","userId":"user704","service":"search-service"}
+{"timestamp":"2025-04-11T07:24:27.084Z","level":"info","message":"Order placed","userId":"user394","service":"search-service"}
+{"timestamp":"2025-04-11T07:24:28.085Z","level":"info","message":"Product added to cart","userId":"user442","service":"auth-service"}
+{"timestamp":"2025-04-11T07:24:29.092Z","level":"info","message":"Payment processed","userId":"user839","service":"cart-service"}
+{"timestamp":"2025-04-11T07:24:30.092Z","level":"info","message":"Search performed","userId":"user871","service":"auth-service"}
+{"timestamp":"2025-04-11T07:24:31.093Z","level":"info","message":"User signed in successfully","userId":"user181","service":"auth-service"}
+{"timestamp":"2025-04-11T07:24:32.107Z","level":"error","message":"Search performed","userId":"user78","service":"payment-service"}
+{"timestamp":"2025-04-11T07:24:33.115Z","level":"info","message":"User signed in successfully","userId":"user528","service":"payment-service"}
+{"timestamp":"2025-04-11T07:24:34.116Z","level":"info","message":"Payment processed","userId":"user280","service":"search-service"}
+{"timestamp":"2025-04-11T07:24:35.116Z","level":"info","message":"Order placed","userId":"user896","service":"search-service"}
+{"timestamp":"2025-04-11T07:24:36.124Z","level":"info","message":"Search performed","userId":"user104","service":"auth-service"}
+{"timestamp":"2025-04-11T07:24:37.131Z","level":"info","message":"Product added to cart","userId":"user58","service":"payment-service"}
+{"timestamp":"2025-04-11T07:24:38.145Z","level":"info","message":"Payment failed","userId":"user845","service":"cart-service"}
+{"timestamp":"2025-04-11T07:24:39.157Z","level":"info","message":"Search performed","userId":"user972","service":"payment-service"}
+{"timestamp":"2025-04-11T07:24:40.162Z","level":"info","message":"User signed in successfully","userId":"user874","service":"cart-service"}
+{"timestamp":"2025-04-11T07:24:41.170Z","level":"info","message":"Product added to cart","userId":"user187","service":"cart-service"}
+{"timestamp":"2025-04-11T07:24:42.179Z","level":"info","message":"Order placed","userId":"user980","service":"auth-service"}
+{"timestamp":"2025-04-11T07:24:43.189Z","level":"info","message":"User signed in successfully","userId":"user668","service":"payment-service"}
+{"timestamp":"2025-04-11T07:24:44.194Z","level":"error","message":"Order placed","userId":"user41","service":"cart-service"}
+{"timestamp":"2025-04-11T07:24:45.199Z","level":"info","message":"Payment processed","userId":"user470","service":"search-service"}
+{"timestamp":"2025-04-11T07:24:46.202Z","level":"error","message":"Order placed","userId":"user514","service":"cart-service"}
+{"timestamp":"2025-04-11T07:24:47.211Z","level":"info","message":"Order placed","userId":"user161","service":"cart-service"}
+{"timestamp":"2025-04-11T07:24:48.213Z","level":"info","message":"Order placed","userId":"user212","service":"auth-service"}
+{"timestamp":"2025-04-11T07:24:49.227Z","level":"error","message":"Payment processed","userId":"user665","service":"auth-service"}
+{"timestamp":"2025-04-11T07:24:50.229Z","level":"info","message":"Payment failed","userId":"user887","service":"payment-service"}
+{"timestamp":"2025-04-11T07:24:51.236Z","level":"error","message":"Order placed","userId":"user623","service":"auth-service"}
+{"timestamp":"2025-04-11T07:24:52.239Z","level":"info","message":"Order placed","userId":"user669","service":"search-service"}
+{"timestamp":"2025-04-11T07:24:53.253Z","level":"info","message":"Payment failed","userId":"user598","service":"auth-service"}
+{"timestamp":"2025-04-11T07:24:54.255Z","level":"info","message":"User signed in successfully","userId":"user625","service":"auth-service"}
+{"timestamp":"2025-04-11T07:24:55.257Z","level":"info","message":"Payment failed","userId":"user88","service":"payment-service"}
+{"timestamp":"2025-04-11T07:24:56.272Z","level":"info","message":"Payment processed","userId":"user976","service":"search-service"}
+{"timestamp":"2025-04-11T07:24:57.274Z","level":"info","message":"Product added to cart","userId":"user921","service":"search-service"}
+{"timestamp":"2025-04-11T07:24:58.281Z","level":"info","message":"User signed in successfully","userId":"user639","service":"cart-service"}
+{"timestamp":"2025-04-11T07:25:44.334Z","level":"error","message":"Payment processed","userId":"user700","service":"auth-service"}
+{"timestamp":"2025-04-11T07:25:45.342Z","level":"info","message":"User signed in successfully","userId":"user682","service":"search-service"}
+{"timestamp":"2025-04-11T07:25:46.354Z","level":"info","message":"User signed in successfully","userId":"user309","service":"cart-service"}
+{"timestamp":"2025-04-11T07:25:47.358Z","level":"info","message":"Search performed","userId":"user409","service":"payment-service"}
+{"timestamp":"2025-04-11T07:25:48.363Z","level":"info","message":"Order placed","userId":"user144","service":"payment-service"}
+{"timestamp":"2025-04-11T07:25:49.378Z","level":"info","message":"Payment processed","userId":"user848","service":"search-service"}
+{"timestamp":"2025-04-11T07:25:50.385Z","level":"error","message":"Order placed","userId":"user490","service":"payment-service"}
+{"timestamp":"2025-04-11T07:25:51.394Z","level":"error","message":"Order placed","userId":"user604","service":"payment-service"}
+{"timestamp":"2025-04-11T07:25:52.396Z","level":"info","message":"User signed in successfully","userId":"user504","service":"auth-service"}
+{"timestamp":"2025-04-11T07:25:53.397Z","level":"info","message":"Order placed","userId":"user809","service":"auth-service"}
+{"timestamp":"2025-04-11T07:25:54.404Z","level":"info","message":"User signed in successfully","userId":"user119","service":"cart-service"}
+{"timestamp":"2025-04-11T07:25:55.413Z","level":"info","message":"Order placed","userId":"user467","service":"search-service"}
+{"timestamp":"2025-04-11T07:25:56.415Z","level":"info","message":"Order placed","userId":"user978","service":"cart-service"}
+{"timestamp":"2025-04-11T07:25:57.420Z","level":"error","message":"Product added to cart","userId":"user669","service":"cart-service"}
+{"timestamp":"2025-04-11T07:25:58.428Z","level":"info","message":"Payment failed","userId":"user789","service":"search-service"}
+{"timestamp":"2025-04-11T07:25:59.437Z","level":"info","message":"Product added to cart","userId":"user120","service":"search-service"}
+{"timestamp":"2025-04-11T07:26:00.446Z","level":"error","message":"Search performed","userId":"user438","service":"cart-service"}
+{"timestamp":"2025-04-11T07:26:01.460Z","level":"info","message":"Payment failed","userId":"user556","service":"search-service"}
+{"timestamp":"2025-04-11T07:26:02.463Z","level":"info","message":"Order placed","userId":"user609","service":"payment-service"}
+{"timestamp":"2025-04-11T07:26:03.476Z","level":"info","message":"Product added to cart","userId":"user106","service":"cart-service"}
+{"timestamp":"2025-04-11T07:26:04.483Z","level":"info","message":"Product added to cart","userId":"user665","service":"search-service"}
+{"timestamp":"2025-04-11T07:26:05.485Z","level":"info","message":"User signed in successfully","userId":"user89","service":"payment-service"}
+{"timestamp":"2025-04-11T07:26:06.496Z","level":"info","message":"Search performed","userId":"user706","service":"payment-service"}
+{"timestamp":"2025-04-11T07:26:07.500Z","level":"info","message":"User signed in successfully","userId":"user419","service":"cart-service"}
+{"timestamp":"2025-04-11T07:26:08.500Z","level":"info","message":"Order placed","userId":"user383","service":"search-service"}
+{"timestamp":"2025-04-11T07:26:09.502Z","level":"info","message":"Order placed","userId":"user712","service":"payment-service"}
+{"timestamp":"2025-04-11T07:26:10.502Z","level":"info","message":"User signed in successfully","userId":"user337","service":"payment-service"}
+{"timestamp":"2025-04-11T07:26:11.511Z","level":"info","message":"Payment failed","userId":"user35","service":"payment-service"}
+{"timestamp":"2025-04-11T07:26:12.518Z","level":"info","message":"Payment failed","userId":"user404","service":"cart-service"}
+{"timestamp":"2025-04-11T07:26:13.521Z","level":"info","message":"Payment processed","userId":"user933","service":"cart-service"}
+{"timestamp":"2025-04-11T07:26:14.526Z","level":"info","message":"Payment processed","userId":"user737","service":"auth-service"}
+{"timestamp":"2025-04-11T07:26:15.535Z","level":"info","message":"Product added to cart","userId":"user941","service":"payment-service"}
+{"timestamp":"2025-04-11T07:26:16.546Z","level":"info","message":"Payment processed","userId":"user256","service":"payment-service"}
+{"timestamp":"2025-04-11T07:26:17.550Z","level":"info","message":"Product added to cart","userId":"user688","service":"payment-service"}
+{"timestamp":"2025-04-11T07:26:18.553Z","level":"info","message":"Payment failed","userId":"user899","service":"payment-service"}
+{"timestamp":"2025-04-11T07:26:19.553Z","level":"info","message":"User signed in successfully","userId":"user228","service":"search-service"}
+{"timestamp":"2025-04-11T07:26:20.559Z","level":"info","message":"Payment processed","userId":"user332","service":"cart-service"}
+{"timestamp":"2025-04-11T07:26:21.567Z","level":"info","message":"Payment failed","userId":"user170","service":"auth-service"}
+{"timestamp":"2025-04-11T07:26:22.567Z","level":"info","message":"Payment processed","userId":"user350","service":"search-service"}
+{"timestamp":"2025-04-11T07:26:23.579Z","level":"info","message":"Payment failed","userId":"user7","service":"cart-service"}
+{"timestamp":"2025-04-11T07:26:24.581Z","level":"info","message":"Search performed","userId":"user935","service":"auth-service"}
+{"timestamp":"2025-04-11T07:26:25.596Z","level":"info","message":"Product added to cart","userId":"user378","service":"auth-service"}
+{"timestamp":"2025-04-11T07:26:26.603Z","level":"info","message":"Payment failed","userId":"user417","service":"payment-service"}
+{"timestamp":"2025-04-11T07:26:27.612Z","level":"error","message":"Payment failed","userId":"user662","service":"auth-service"}
+{"timestamp":"2025-04-11T07:26:28.618Z","level":"info","message":"User signed in successfully","userId":"user12","service":"payment-service"}
+{"timestamp":"2025-04-11T07:26:29.628Z","level":"info","message":"Order placed","userId":"user725","service":"payment-service"}
+{"timestamp":"2025-04-11T07:26:30.640Z","level":"info","message":"User signed in successfully","userId":"user519","service":"search-service"}
+{"timestamp":"2025-04-11T07:26:31.640Z","level":"info","message":"Payment processed","userId":"user690","service":"auth-service"}
+{"timestamp":"2025-04-11T07:26:32.654Z","level":"info","message":"Order placed","userId":"user449","service":"cart-service"}
+{"timestamp":"2025-04-11T07:26:33.665Z","level":"info","message":"Payment processed","userId":"user111","service":"search-service"}
+{"timestamp":"2025-04-11T07:26:34.667Z","level":"info","message":"Search performed","userId":"user548","service":"payment-service"}
+{"timestamp":"2025-04-11T07:26:35.672Z","level":"error","message":"Order placed","userId":"user503","service":"auth-service"}
+{"timestamp":"2025-04-11T07:26:36.676Z","level":"info","message":"Payment failed","userId":"user483","service":"search-service"}
+{"timestamp":"2025-04-11T07:26:37.685Z","level":"info","message":"Payment failed","userId":"user712","service":"auth-service"}
+{"timestamp":"2025-04-11T07:26:38.689Z","level":"info","message":"Search performed","userId":"user302","service":"payment-service"}
+{"timestamp":"2025-04-11T07:26:39.695Z","level":"info","message":"User signed in successfully","userId":"user575","service":"search-service"}
+{"timestamp":"2025-04-11T07:26:40.695Z","level":"error","message":"Payment failed","userId":"user797","service":"auth-service"}
+{"timestamp":"2025-04-11T07:26:41.696Z","level":"info","message":"Search performed","userId":"user252","service":"cart-service"}
+{"timestamp":"2025-04-11T07:26:42.699Z","level":"info","message":"Search performed","userId":"user152","service":"auth-service"}
+{"timestamp":"2025-04-11T07:26:43.699Z","level":"info","message":"Payment processed","userId":"user497","service":"search-service"}
+{"timestamp":"2025-04-11T07:26:44.699Z","level":"info","message":"Product added to cart","userId":"user853","service":"payment-service"}
+{"timestamp":"2025-04-11T07:26:45.707Z","level":"info","message":"Order placed","userId":"user316","service":"cart-service"}
+{"timestamp":"2025-04-11T07:26:46.709Z","level":"info","message":"Order placed","userId":"user199","service":"auth-service"}
+{"timestamp":"2025-04-11T07:26:47.714Z","level":"info","message":"Payment failed","userId":"user633","service":"search-service"}
+{"timestamp":"2025-04-11T07:26:48.714Z","level":"info","message":"Payment processed","userId":"user552","service":"cart-service"}
+{"timestamp":"2025-04-11T07:26:49.725Z","level":"info","message":"Payment processed","userId":"user825","service":"payment-service"}
+{"timestamp":"2025-04-11T07:26:50.725Z","level":"info","message":"User signed in successfully","userId":"user101","service":"search-service"}
+{"timestamp":"2025-04-11T07:26:51.731Z","level":"info","message":"Payment failed","userId":"user945","service":"search-service"}
+{"timestamp":"2025-04-11T07:26:52.738Z","level":"error","message":"Payment processed","userId":"user277","service":"payment-service"}
+{"timestamp":"2025-04-11T07:26:53.739Z","level":"info","message":"Payment failed","userId":"user930","service":"search-service"}
+{"timestamp":"2025-04-11T07:26:54.746Z","level":"error","message":"Search performed","userId":"user442","service":"cart-service"}
+{"timestamp":"2025-04-11T07:26:55.752Z","level":"error","message":"Payment failed","userId":"user301","service":"auth-service"}
+{"timestamp":"2025-04-11T07:26:56.765Z","level":"error","message":"Payment processed","userId":"user790","service":"payment-service"}
+{"timestamp":"2025-04-11T07:26:57.769Z","level":"info","message":"Product added to cart","userId":"user727","service":"auth-service"}
+{"timestamp":"2025-04-11T07:26:58.771Z","level":"info","message":"Payment processed","userId":"user741","service":"auth-service"}
+{"timestamp":"2025-04-11T07:26:59.771Z","level":"info","message":"Order placed","userId":"user909","service":"payment-service"}
+{"timestamp":"2025-04-11T07:27:00.777Z","level":"info","message":"Payment processed","userId":"user549","service":"payment-service"}
+{"timestamp":"2025-04-11T07:27:01.778Z","level":"error","message":"Product added to cart","userId":"user180","service":"payment-service"}
+{"timestamp":"2025-04-11T07:27:02.786Z","level":"error","message":"Payment processed","userId":"user397","service":"auth-service"}
+{"timestamp":"2025-04-11T07:27:03.794Z","level":"info","message":"User signed in successfully","userId":"user775","service":"cart-service"}
+{"timestamp":"2025-04-11T07:27:04.794Z","level":"info","message":"Product added to cart","userId":"user818","service":"search-service"}
+{"timestamp":"2025-04-11T07:27:05.794Z","level":"error","message":"Product added to cart","userId":"user942","service":"search-service"}
+{"timestamp":"2025-04-11T07:27:06.802Z","level":"error","message":"Payment processed","userId":"user510","service":"payment-service"}
+{"timestamp":"2025-04-11T07:27:07.810Z","level":"error","message":"User signed in successfully","userId":"user140","service":"search-service"}
+{"timestamp":"2025-04-11T07:27:08.825Z","level":"error","message":"Payment failed","userId":"user798","service":"payment-service"}
+{"timestamp":"2025-04-11T07:27:09.827Z","level":"info","message":"Product added to cart","userId":"user990","service":"payment-service"}
+{"timestamp":"2025-04-11T07:27:10.827Z","level":"info","message":"Payment processed","userId":"user346","service":"cart-service"}
+{"timestamp":"2025-04-11T07:27:11.835Z","level":"info","message":"Payment processed","userId":"user713","service":"search-service"}
+{"timestamp":"2025-04-11T07:27:12.836Z","level":"info","message":"Payment failed","userId":"user462","service":"cart-service"}
+{"timestamp":"2025-04-11T07:27:13.850Z","level":"error","message":"Order placed","userId":"user796","service":"cart-service"}
+{"timestamp":"2025-04-11T07:27:14.860Z","level":"info","message":"User signed in successfully","userId":"user815","service":"payment-service"}
+{"timestamp":"2025-04-11T07:27:15.871Z","level":"error","message":"Order placed","userId":"user669","service":"search-service"}
+{"timestamp":"2025-04-11T07:27:16.878Z","level":"info","message":"Order placed","userId":"user99","service":"auth-service"}
+{"timestamp":"2025-04-11T07:27:17.881Z","level":"info","message":"Order placed","userId":"user800","service":"cart-service"}
+{"timestamp":"2025-04-11T07:27:18.885Z","level":"info","message":"Search performed","userId":"user43","service":"auth-service"}
+{"timestamp":"2025-04-11T07:27:19.888Z","level":"error","message":"Payment processed","userId":"user564","service":"cart-service"}
+{"timestamp":"2025-04-11T07:27:20.895Z","level":"info","message":"Search performed","userId":"user41","service":"auth-service"}
+{"timestamp":"2025-04-11T07:27:21.900Z","level":"info","message":"Product added to cart","userId":"user183","service":"auth-service"}
+{"timestamp":"2025-04-11T07:27:22.900Z","level":"info","message":"Search performed","userId":"user338","service":"search-service"}
+{"timestamp":"2025-04-11T07:27:23.910Z","level":"info","message":"Search performed","userId":"user244","service":"auth-service"}
+{"timestamp":"2025-04-11T07:27:24.917Z","level":"info","message":"Search performed","userId":"user762","service":"payment-service"}
+{"timestamp":"2025-04-11T07:27:25.923Z","level":"error","message":"Payment failed","userId":"user611","service":"auth-service"}
+{"timestamp":"2025-04-11T07:27:26.926Z","level":"info","message":"Order placed","userId":"user179","service":"auth-service"}
+{"timestamp":"2025-04-11T07:27:27.933Z","level":"info","message":"Payment processed","userId":"user985","service":"cart-service"}
+{"timestamp":"2025-04-11T07:27:28.945Z","level":"info","message":"Payment failed","userId":"user767","service":"cart-service"}
+{"timestamp":"2025-04-11T07:27:29.950Z","level":"error","message":"Payment failed","userId":"user929","service":"payment-service"}
+{"timestamp":"2025-04-11T07:27:30.964Z","level":"info","message":"Order placed","userId":"user8","service":"auth-service"}
+{"timestamp":"2025-04-11T07:27:31.974Z","level":"info","message":"Order placed","userId":"user936","service":"auth-service"}
+{"timestamp":"2025-04-11T07:27:32.980Z","level":"info","message":"User signed in successfully","userId":"user735","service":"auth-service"}
+{"timestamp":"2025-04-11T07:27:33.988Z","level":"info","message":"Search performed","userId":"user129","service":"search-service"}
+{"timestamp":"2025-04-11T07:27:34.990Z","level":"info","message":"Payment failed","userId":"user224","service":"search-service"}
+{"timestamp":"2025-04-11T07:27:35.990Z","level":"info","message":"Payment processed","userId":"user439","service":"payment-service"}
+{"timestamp":"2025-04-11T07:27:36.996Z","level":"info","message":"Product added to cart","userId":"user571","service":"search-service"}
+{"timestamp":"2025-04-11T07:27:38.003Z","level":"error","message":"Search performed","userId":"user763","service":"auth-service"}
+{"timestamp":"2025-04-11T07:27:39.006Z","level":"error","message":"Payment failed","userId":"user639","service":"search-service"}
+{"timestamp":"2025-04-11T07:27:40.007Z","level":"info","message":"Product added to cart","userId":"user912","service":"cart-service"}

@@ -1,0 +1,14 @@
+filebeat.inputs:
+  - type: log
+    enabled: true
+    paths:
+      - /var/log/app/*.log   # You can mount your real path here
+
+output.logstash:
+  hosts: ["logstash:5044"]
+
+processors:
+  - add_fields:
+      target: ''
+      fields:
+        env: dev
